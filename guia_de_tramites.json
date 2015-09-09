@@ -5361,7 +5361,452 @@
   ],
   "entities": [
     {
-      "id": "gas",
+      "id": "gas1",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas2",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas3",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas4",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas5",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas6",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas7",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas8",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas9",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas10",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas11",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas12",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas13",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas14",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas15",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas16",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas17",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas18",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas19",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas20",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas21",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas22",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas23",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas24",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas25",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas26",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas27",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas28",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas29",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas30",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas31",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas32",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas33",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas34",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas35",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas36",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas37",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas38",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas39",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas40",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas41",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas42",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas43",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas44",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas45",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas46",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas47",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas48",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas49",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas50",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas51",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas52",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas53",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas54",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas55",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas56",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas57",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas58",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas59",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas60",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas61",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas62",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas63",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas64",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas65",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas66",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas67",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas68",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas69",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas70",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas71",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas72",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas73",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas74",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas75",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas76",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas77",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas78",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas79",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas81",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas82",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas83",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas84",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas85",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas86",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas87",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas88",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas89",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas80",
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "id": "gas90",
       "long_name": "GAS NATURAL FENOSA",
       "short_name": "GAS NATURAL"
     },
