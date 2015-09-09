@@ -1,0 +1,5585 @@
+{
+  "processes": [
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ENTREGA EN ADMINISTRACI\u00d3N DE BIENES A TERCEROS"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO"
+    },
+    {
+      "name": "DESCONFORMACI\u00d3N"
+    },
+    {
+      "name": "AMPLIACI\u00d3N"
+    },
+    {
+      "name": "CONFORMACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N"
+    },
+    {
+      "name": "PQR\u00b4S (AJUSTES DE FACTURACI\u00d3N)"
+    },
+    {
+      "name": "CAMBIO DE TARJETA INCENTIVO SISBEN"
+    },
+    {
+      "name": "ADMISIONES"
+    },
+    {
+      "name": "PUBLICACI\u00d3N DE RESULTADOS PARA ADMITIDOS Y OPCIONADOS"
+    },
+    {
+      "name": "FACULTAD DE ARTES - ASAB"
+    },
+    {
+      "name": "FACULTAD DE INGENIER\u00cdA"
+    },
+    {
+      "name": "FACULTAD TECNOL\u00d3GICA"
+    },
+    {
+      "name": "INSTITUTO DE ESTUDIOS E INVESTIGACIONES EDUCATIVAS - IEIE"
+    },
+    {
+      "name": "INSTITUTO PARA LA PEDAGOG\u00cdA, LA PAZ Y EL CONFLICTO URBANO DE LA UNIVER"
+    },
+    {
+      "name": "CERTIFICADO DE EXISTENCIA Y REPRESENTACI\u00d3N LEGAL"
+    },
+    {
+      "name": "CERTIFICADO DE MATR\u00cdCULA MERCANTIL"
+    },
+    {
+      "name": "CERTIFICADO RUP"
+    },
+    {
+      "name": "MATR\u00cdCULA PERSONA NATURAL"
+    },
+    {
+      "name": "RENOVACI\u00d3N DE MATR\u00cdCULA"
+    },
+    {
+      "name": "CASO ESPECIAL RELACIONADO CON LA SALIDA DE VEH\u00cdCULOS INMOVILIZADOS"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR OTRAS INFRACCIONES- AU"
+    },
+    {
+      "name": "RADICACI\u00d3N DE DOCUMENTOS"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N DE LA INFORMACI\u00d3N EN LA PLATAFORMA SECRETAR\u00ccA DE MOVILID"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N DE LA INFORMACI\u00d3N EN LA PLATAFORMA SIMIT"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N DE LA INFORMACI\u00d3N EN LA PLATAFORMA SIMIT"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR EMBRIAGUEZ"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR EMBRIAGUEZ"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR LESIONES U HOMICIDIO E"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR OTRAS INFRACCIONES"
+    },
+    {
+      "name": "CASO ESPECIAL RELACIONADO CON LA SALIDA DE VEH\u00cdCULOS INMOVILIZADOS"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR OTRAS INFRACCIONES- AU"
+    },
+    {
+      "name": "RADICACI\u00d3N DE DOCUMENTOS"
+    },
+    {
+      "name": "SE NOTIFICA DE MANERA PERSONAL AQUELLOS COMPARENDO DE TIPO ELECTRONICO"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PATIOS Y GR\u00daAS PARTICULAR"
+    },
+    {
+      "name": "IMPUGNACIONES"
+    },
+    {
+      "name": "IMPUGNACIONES PREFERENCIAL"
+    },
+    {
+      "name": "ACTUALIZACI\u00d2N DE INFORMACI\u00d2N DE CURSOS REALIZADOS ANTE CIAS"
+    },
+    {
+      "name": "ACTUALIZACI\u00d2N DE INFORMACI\u00d2N DE CURSOS REALIZADOS ANTE CIAS"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PATIOS Y GR\u00daAS PARTICULAR"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PATIOS Y GR\u00daAS P\u00daBLICO"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PATIOS Y GR\u00daAS P\u00daBLICO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PETICION"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE CONTESTADOR VIRTUAL"
+    },
+    {
+      "name": "CAMBIO DE ESTRATO"
+    },
+    {
+      "name": "CAMBIO DE ACTIVIDAD COMERCIAL O RESIDENCIAL"
+    },
+    {
+      "name": "MENSAJE POR CAMBIO DE NUMERO"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR MUTUO ACUERDO)"
+    },
+    {
+      "name": "CAMBIO DE NOMBRE"
+    },
+    {
+      "name": "RECTIFICACION INFORMACION JURIDICA"
+    },
+    {
+      "name": "RECUPERACION PREDIOS BORRADOS"
+    },
+    {
+      "name": "INCORPORACION DE TOPOGRAFICOS"
+    },
+    {
+      "name": "DESENGLOBE NPH-NO PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "DESENGLOBE PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "AUTORIZACIONES"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL 30 DIAS - 60 DIAS"
+    },
+    {
+      "name": "RECONEXI\u00d3N TEMPORAL POR SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "ACTIVACION DE NUMERO O CAMBIO NUMERO  PREFERIDO"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR MUTUO ACUERDO)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR FALLECIMIENTO DEL TITULAR)"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO M\u00d3VIL"
+    },
+    {
+      "name": "CAMBIO DE PLAN"
+    },
+    {
+      "name": "CANCELACI\u00d3N DE M\u00d3VILES"
+    },
+    {
+      "name": "RECUPERACION DE SEMANAS"
+    },
+    {
+      "name": "TERMINACI\u00d3N DEL CONTRATO (CANCELACI\u00d3N DEL SERVICIO)"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL 30 DIAS - 60 DIAS"
+    },
+    {
+      "name": "CONSULTA DE N\u00daMERO M\u00d3VIL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N"
+    },
+    {
+      "name": "PQR\u00b4S (AJUSTES DE FACTURACI\u00d3N)"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CAMBIO DE ACTIVIDAD"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXT. VISUAL PARA VEH\u00cdCULOS DE TRANSPORTE P\u00daBLICO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE LA L\u00cdNEA 195 DEL DERECHO A LA SALUD"
+    },
+    {
+      "name": "ATENCI\u00d3N E INFORMACI\u00d3N A CIUDADANOS TEMAS SECRETAR\u00cdA DE SALUD"
+    },
+    {
+      "name": "INFORMACI\u00d3N Y AFILIACI\u00d3N SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD"
+    },
+    {
+      "name": "CAMBIO DE DIRECCI\u00d3N"
+    },
+    {
+      "name": "CAMBIO DE PLAN"
+    },
+    {
+      "name": "ACCIDENTE DE TRABAJO Y \/ O REPORTE"
+    },
+    {
+      "name": "TRASLADO DE COTIZACIONES"
+    },
+    {
+      "name": "MATR\u00cdCULA MERCANTIL DE ESTABLECIMIENTO DE COMERCIO"
+    },
+    {
+      "name": "RELIQUIDACI\u00d3N DE MATR\u00cdCULA  MERCANTIL"
+    },
+    {
+      "name": "CORRECCI\u00d3N DE CERTIFICADOS"
+    },
+    {
+      "name": "CERTIFICADO DE MATR\u00cdCULA MERCANTIL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ENTREGA EN ADMINISTRACI\u00d3N DE BIENES A TERCEROS"
+    },
+    {
+      "name": "CONSULTA BIBLIOGR\u00c1FICA SOBRE ESPACIO PUBLICO"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N SOBRE DOMINIO,DESTINO, USO DE PROPIEDAD INMOBILIARIA DIS"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE IDENTIFICADOR DE LLAMADAS"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE LLAMADA EN ESPERA"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE SEGUNDA LLAMADA"
+    },
+    {
+      "name": "CESI\u00d3N DE CONTRATO (POR MANIFESTACI\u00d3N DEL NUEVO TITULAR)"
+    },
+    {
+      "name": "CAMBIO DE PLAN - VELOCIDAD"
+    },
+    {
+      "name": "PORTABILIDAD NUMERICA"
+    },
+    {
+      "name": "TERMINACI\u00d3N DEL CONTRATO (CANCELACI\u00d3N DEL SERVICIO)"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTIVACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL"
+    },
+    {
+      "name": "SALVOCONDUCTO PARA LA MOVILIZACI\u00d3N DE FLORA Y ARBOLADO URBANO"
+    },
+    {
+      "name": "SOLICITUD DE MODIFICACI\u00d3N DE CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS"
+    },
+    {
+      "name": "SOLICITUD EVALUACI\u00d3N\/APROBACI\u00d3N PMA Y\/O EL PLAN MANEJO RECUP"
+    },
+    {
+      "name": "SOLICITUD EXP. SALVOCONDUCTO DE MOV. DE ESPEC\u00cdMENES FAUNA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD OTORG., MOD. O RENOV. PERMISOS APROVECHAMIENTO FAUNA SILV."
+    },
+    {
+      "name": "SOLICITUD PERMISO DE EXPLORACI\u00d3N AGUAS SUBTERR\u00c1NEAS."
+    },
+    {
+      "name": "REGISTRO DE LIBRO DE OPERACIONES DE INDUSTRIAS FORESTALES"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXT. VISUAL EN MOVIMIENTO A TRAV\u00c9S DE PANTALLAS"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA AVISOS DIVISIBLES"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA AVISOS EN FACHADA"
+    },
+    {
+      "name": "ACREDITACI\u00d3N POR INVERSI\u00d3N AMBIENTAL - DEDUCCI\u00d3N DE LA RENTA L\u00cdQUIDA"
+    },
+    {
+      "name": "APROBACI\u00d3N DEL PROGRAMA DE AUTORREGULACI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE EXPORTACI\u00d3N E IMPORTACI\u00d3N DE FLORA SILVESTRE"
+    },
+    {
+      "name": "MATRICULA ADMITIDOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "MODIFICACION ESTRATO USO Y DESTINO"
+    },
+    {
+      "name": "COMO SE EVALUA LA PERDIDA DE CAPACIDAD LABORAL"
+    },
+    {
+      "name": "PROTECCI\u00d3N DE LA SALUD Y SEGURIDAD EN EL TRABAJO"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL VEH\u00cdCULOS TRANSPORTEN PRODUCTOS"
+    },
+    {
+      "name": "REGISTRO DE VERTIMIENTOS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "SOLICITUD DE REGISTRO DE MOVILIZADOR DE ACEITES USADOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ATENCI\u00d3N E INFORMACI\u00d3N A CIUDADANOS TEMAS SECRETAR\u00cdA DE SALUD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "QUIEN CALIFICA EL GRADO DE INVALIDEZ"
+    },
+    {
+      "name": "SOLICITUD DE VISITA PARA OBTENER CERTIFICACI\u00d3N DE N\u00b0 DE TRABAJADORES"
+    },
+    {
+      "name": "TELETRABAJO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N AGENCIAS DE COLOCACION DE EMPLEO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE DISMINUCI\u00d3N DE CAPITAL SOCIAL"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE EMPRESAS DE SERVICIOS TEMPORALES"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TERMINACI\u00d3N DE CONTRATO DE TRABAJADOR EN CONDICIONES D"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TRABAJO A MENORES"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DESPIDO ESTADO DE EMBARAZO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N PARA LABORAR HORAS EXTRAS"
+    },
+    {
+      "name": "AUTORIZAR CIERRE O SUSPENSI\u00d3N DE ACTIVIDADES"
+    },
+    {
+      "name": "AUTORIZAR REG\u00cdMENES DE TRABAJO ASOCIADO"
+    },
+    {
+      "name": "TRABAJO EN ALTURAS"
+    },
+    {
+      "name": "TRASLADO DE R\u00c9GIMEN"
+    },
+    {
+      "name": "RESTITUCI\u00d3N VOLUNTARIA DE ESPACIO P\u00daBLICO INDEBIDAMENTE OCUPADO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TRASLADOS (INTERNO \/ EXTERNO) DE LINEA TELEFONICA"
+    },
+    {
+      "name": "TERMINACI\u00d3N DEL CONTRATO (CANCELACI\u00d3N DEL SERVICIO)"
+    },
+    {
+      "name": "MENSAJE POR CAMBIO DE NUMERO"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR MUTUO ACUERDO)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR  VENTA O DECLARACI\u00d3N DE PERTENENCIA)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR FALLECIMIENTO DEL TITULAR)"
+    },
+    {
+      "name": "CESI\u00d3N DE CONTRATO (POR MANIFESTACI\u00d3N DEL NUEVO TITULAR)"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AJUSTE DE DATOS"
+    },
+    {
+      "name": "CAMBIO DE PLAN LOCAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL 30 DIAS - 60 DIAS"
+    },
+    {
+      "name": "ACUERDOS DE PAGO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INSTITUTO DE LENGUAS DE LA UNIVERSIDAD DISTRITAL - ILUD"
+    },
+    {
+      "name": "PR\u00d3RROGA DE CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS VIGENTE"
+    },
+    {
+      "name": "SOLICITUD VERIFICACI\u00d3N EXPORT. O IMPORT. ESPEC\u00cdMENES FAUNA SILVESTRE"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL PARA AVISOS SEPARADOS DE FACHADA"
+    },
+    {
+      "name": "ENTREGA DE AUTORIZACIONES"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N SOBRE DOMINIO,DESTINO, USO DE PROPIEDAD INMOBILIARIA DIS"
+    },
+    {
+      "name": "AVALUO COMERCIAL EXENCIONES TRIBUTARIAS"
+    },
+    {
+      "name": "INCOR MEJORA EDIFICACION EN PREDIO AJENO"
+    },
+    {
+      "name": "REGIMEN DE TRANSICION"
+    },
+    {
+      "name": "RELIQUIDACION DE LA PENSION"
+    },
+    {
+      "name": "REQUISITOS PARA LA PENSION DE INVALIDEZ POR RIESGO COMUN"
+    },
+    {
+      "name": "SALARIO BASE DE LIQUIDACION DE PENSION DE VEJEZ"
+    },
+    {
+      "name": "CONCEPTO Y VALORACION DE UNA ENFERMEDAD COMUN O PROFESIONAL \/ LABORAL"
+    },
+    {
+      "name": "OBLIGACIONES Y PRESTACIONES QUE OTORGA EL SISTEMA RIESGOS LABORALES"
+    },
+    {
+      "name": "SALUD OCUPACIONAL"
+    },
+    {
+      "name": "SANCIONES"
+    },
+    {
+      "name": "PENSIONADOS: RECONOCIMIENTO PERSONER\u00cdA JURIDICA, INSCRIPCI\u00d3N JUNTA DIR"
+    },
+    {
+      "name": "TRABAJADOR CESANTE"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA TERMINACI\u00d3N DE CONTRATO"
+    },
+    {
+      "name": "INCONFORMIDAD CON LOS COBROS INOPORTUNOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL CORTE,SUSPENSI\u00d3N,DESCONEXI\u00d3N,DESACTIVACI\u00d3N ETC"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL PLAZO PARA EL INICIO DE LA PRESTACI\u00d3N DEL SERVICI"
+    },
+    {
+      "name": "FALTA DE DISPONIBILIDAD DEL SERVICIO POR FALLA T\u00c9CNICA"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA CALIDAD DE ATENCI\u00d3N AL USUARIO"
+    },
+    {
+      "name": "INCONFORMIDAD POR LA NEGATIVA EN RECIBIR UNA PETICI\u00d3N, QUEJA Y RECURSO"
+    },
+    {
+      "name": "INCONFORMIDAD SOBRE EL CUMPLIMIENTO DE UNA ORDEN DE LA SIC"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA UTILIZACI\u00d3N DE DATOS PERSONALES"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL REPORTE A CENTRALES DE RIESGOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL CAMBIO DE CICLO DE FACTURACI\u00d3N."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA SUSPENSI\u00d3N DEL SERVICIO CON RECURSO EN TR\u00c1MITE"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ENTREGA Y OPORTUNIDAD DE LA FACTURA"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL COBRO EN LAS CONSULTA POR ATENCI\u00d3N AL USUARIO"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA FACTURACI\u00d3N."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA COMPENSACI\u00d3N"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL COBRO DE SERVICIOS SUPLEMENTARIOS Y ADICIONALES"
+    },
+    {
+      "name": "REFORMA PH LEY 675"
+    },
+    {
+      "name": "RECTIFICACION VIGENCIAS AVALUOS"
+    },
+    {
+      "name": "REVOCATORIA DIREC\/PARTE"
+    },
+    {
+      "name": "CORRECCION IDENTIFICADOR PREDIAL"
+    },
+    {
+      "name": "REVISION AVALUO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTF INSCRIPCION CENSO CATASTRAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICACION CATASTRAL"
+    },
+    {
+      "name": "CERTIFICACION MASIVA NOMENCLATURA"
+    },
+    {
+      "name": "QUEJAS RECLAMOS -SDQS"
+    },
+    {
+      "name": "AUXILIO DE TRANSPORTE"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "ENTREGA DE VOLANTE DE PAGO POR LA IMPOCISI\u00d3N DE UN COMPARENTO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ACTIVACI\u00d3N Y DESACTIVACI\u00d3N DE SUPLEMENTARIOS"
+    },
+    {
+      "name": "DOTACI\u00d3N"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ACTIVACI\u00d3N DE EQUIPOS TERMINALES Y\/O L\u00cdNEAS"
+    },
+    {
+      "name": "SOLICITUDES SOBRE MI LINEA"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR  VENTA O DECLARACI\u00d3N DE PERTENENCIA)"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA RECEPCI\u00d3N DE EQUIPO TERMINAL EN GARANT\u00cdA"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA REPOSICI\u00d3N DE EQUIPOS TERMINALES."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA VELOCIDAD O INTERMITENCIA DEL A INTERNET"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ENTREGA Y ESCRITURACI\u00d3N DE ZONAS DE CESI\u00d3N AL DISTRITO CAPITAL."
+    },
+    {
+      "name": "PROCESO DE DONACI\u00d3N DE INMUEBLES AL DISTRITO CAPITAL"
+    },
+    {
+      "name": "RECIBO DE ZONAS DE CESI\u00d3N POR PARTE DEL DADEP"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "COMPRA DE PRODUCTO Y SERVICIOS ETB"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION DE C\u00d3DIGO DEL SECRETO"
+    },
+    {
+      "name": "FACULTAD DE CIENCIAS Y EDUCACI\u00d3N"
+    },
+    {
+      "name": "FACULTAD DE MEDIO AMBIENTE Y RECURSOS NATURALES"
+    },
+    {
+      "name": "INSTITUTO DE EXTENSI\u00d3N Y EDUCACI\u00d3N NO FORMAL DE LA UNIVERSIDAD DISTRIT"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "QUEJAS, RECLAMOS Y ATENCI\u00d3N AL CIUDADANO"
+    },
+    {
+      "name": "REFORMA PH\/INCORPORACION CONSTRUCCION PH"
+    },
+    {
+      "name": "MODIFICACIONES SOBRE MI CUENTA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CASOS ESPECIALES REALCIONADOS CON ACUERDOS DE PAGO"
+    },
+    {
+      "name": "CASOS ESPECIALES REALCIONADOS CON ACUERDOS DE PAGO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N DE LA INFORMACI\u00d3N EN LA PLATAFORMA SECRETAR\u00ccA DE MOVILID"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR OTRAS INFRACCIONES"
+    },
+    {
+      "name": "VERIFICACI\u00d3N EXPORTAR O IMPORTAR ESPEC\u00cdMENES FLORA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD OTORG., MODIF. O RENOV. PERMISOS INVEST. CIENTIFICA FAUNA"
+    },
+    {
+      "name": "VISITAS AULAS AMBIENTALES EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "ADECUACI\u00d3N DE MOBILIARIO URBANO EN PARQUES VECINALES Y DE BOLSILLO."
+    },
+    {
+      "name": "ASESOR\u00cdA PEDAG\u00d3GICA SOBRE ESPACIO P\u00daBLICO."
+    },
+    {
+      "name": "CONSULTA BIBLIOGR\u00c1FICA SOBRE ESPACIO PUBLICO"
+    },
+    {
+      "name": "RESTITUCI\u00d3N VOLUNTARIA DE ESPACIO P\u00daBLICO INDEBIDAMENTE OCUPADO"
+    },
+    {
+      "name": "ENTREGA Y ESCRITURACI\u00d3N DE ZONAS DE CESI\u00d3N AL DISTRITO CAPITAL."
+    },
+    {
+      "name": "PROCESO DE DONACI\u00d3N DE INMUEBLES AL DISTRITO CAPITAL"
+    },
+    {
+      "name": "RECIBO DE ZONAS DE CESI\u00d3N POR PARTE DEL DADEP"
+    },
+    {
+      "name": "ADECUACI\u00d3N DE MOBILIARIO URBANO EN PARQUES VECINALES Y DE BOLSILLO."
+    },
+    {
+      "name": "ASESOR\u00cdA PEDAG\u00d3GICA SOBRE ESPACIO P\u00daBLICO."
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "REPOSICION DE SIM CARD - MODEM"
+    },
+    {
+      "name": "SUPENSION POR PERDIDA - ROBO"
+    },
+    {
+      "name": "ADICIONAR M\u00d3VILES"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA MOBILIARIO URBANO"
+    },
+    {
+      "name": "COMPRA DE PRODUCTO Y SERVICIOS ETB"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION DE C\u00d3DIGO DEL SECRETO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "MODIFICACIONES SOBRE MI CUENTA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DE SEGUNDA INSTANCIA"
+    },
+    {
+      "name": "RADICACI\u00d3N SERVICIOS NO POS-S"
+    },
+    {
+      "name": "DENUNCIAS BUSES CHIMENEA EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "QUEJAS POR TENENCIA Y COMERCIALIZACI\u00d3N ILEGAL DE FAUNA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD DE CHARLAS DE SENSIBILIZACI\u00d3N SOBRE FAUNA SILVESTRE"
+    },
+    {
+      "name": "RECUPERACI\u00d3N DE ANIMALES SILVESTRES EXTRAVIADOS EN LA CIUDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CAMBIO DIRECCI\u00d3N DE REPARTO"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL 30 DIAS - 60 DIAS"
+    },
+    {
+      "name": "RECONEXI\u00d3N TEMPORAL POR SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO A SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "RECONEXI\u00d3N TEMPORAL POR SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "TRASLADOS (INTERNO \/ EXTERNO) DE LINEA TELEFONICA"
+    },
+    {
+      "name": "TERMINACI\u00d3N DEL CONTRATO (CANCELACI\u00d3N DEL SERVICIO)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR MUTUO ACUERDO)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR  VENTA O DECLARACI\u00d3N DE PERTENENCIA)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR FALLECIMIENTO DEL TITULAR)"
+    },
+    {
+      "name": "CESI\u00d3N DE CONTRATO (POR MANIFESTACI\u00d3N DEL NUEVO TITULAR )"
+    },
+    {
+      "name": "CAMBIO DE PLAN - VELOCIDAD"
+    },
+    {
+      "name": "CAMBIO DE MODEM (DA\u00d1O - PERDIDA O ROBO)"
+    },
+    {
+      "name": "ACTIVACION DE IP ADICIONAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N (CLIENTE FILTRADO)"
+    },
+    {
+      "name": "REPORTE DE DA\u00d1O"
+    },
+    {
+      "name": "DUPLICADO"
+    },
+    {
+      "name": "EXTEMPORANEO"
+    },
+    {
+      "name": "INCONFORMIDAD CON COBROS POR SERVICIOS NO PRESTADOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL PLAN TARIFARIO"
+    },
+    {
+      "name": "INCONFORMIDAD CON PAGOS NO ABONADOS Y NO ABONO OPORTUNO"
+    },
+    {
+      "name": "NEGACI\u00d3N DE LA RELACI\u00d3N CONTRACTUAL"
+    },
+    {
+      "name": "PETICION"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA PUBLICIDAD"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA MODIFICACI\u00d3N DE LA TARIFA Y PLANES"
+    },
+    {
+      "name": "TRASLADOS (INTERNO \/ EXTERNO) DE LINEA TELEFONICA"
+    },
+    {
+      "name": "TERMINACI\u00d3N DEL CONTRATO (CANCELACI\u00d3N DEL SERVICIO)"
+    },
+    {
+      "name": "ENGLOBE NO PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "DESEN DESARRO URBANISTICOS Y ZONAS CES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "FIDELIZACION"
+    },
+    {
+      "name": "VENTAS FIJAS"
+    },
+    {
+      "name": "CONSULTAS GENERALES"
+    },
+    {
+      "name": "SOLICITUDES SOBRE MI LINEA"
+    },
+    {
+      "name": "FIDELIZACION"
+    },
+    {
+      "name": "VENTAS FIJAS"
+    },
+    {
+      "name": "TRASLADO DE MUNICIPIO"
+    },
+    {
+      "name": "TRASLADO DE EPS-S"
+    },
+    {
+      "name": "ADICI\u00d3N MENORES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N"
+    },
+    {
+      "name": "RADICACI\u00d3N DE SEGUNDA INSTANCIA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "LIBRE ELECCI\u00d3N"
+    },
+    {
+      "name": "SOLICITUD DE PROTABILIDAD"
+    },
+    {
+      "name": "ADICI\u00d3N MENORES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N"
+    },
+    {
+      "name": "SUSCRIPCI\u00d3N DE ACUERDOS DE PAGO"
+    },
+    {
+      "name": "SUSCRIPCI\u00d3N DE ACUERDOS DE PAGO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RECONOCIMIENTO"
+    },
+    {
+      "name": "TRAMITES ISS"
+    },
+    {
+      "name": "HISTORIA LABORAL"
+    },
+    {
+      "name": "SIN CLASIFICACION SC"
+    },
+    {
+      "name": "HISTORIA LABORAL"
+    },
+    {
+      "name": "CERTIFICADO DE AFILIACION"
+    },
+    {
+      "name": "CERTIFICADOS DE NOMINA"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE IDENTIFICADOR DE LLAMADAS"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE LLAMADA EN ESPERA"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE SEGUNDA LLAMADA"
+    },
+    {
+      "name": "ACTIVACION Y DESACTIVACION  DE CONTESTADOR VIRTUAL"
+    },
+    {
+      "name": "CAMBIO DE ESTRATO"
+    },
+    {
+      "name": "CAMBIO DE ACTIVIDAD COMERCIAL O RESIDENCIAL"
+    },
+    {
+      "name": "CAMBIO DIRECCI\u00d3N DE REPARTO"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL 30 DIAS - 60 DIAS"
+    },
+    {
+      "name": "RECONEXI\u00d3N TEMPORAL POR SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO A SOLICITUD DEL CLIENTE"
+    },
+    {
+      "name": "RECTIFICACION MASIVA DE NOMENCLATURA"
+    },
+    {
+      "name": "RECTIFICACION DE AREA CONSTRUIDA"
+    },
+    {
+      "name": "AVALUO COMERCIAL EXENCIONES TRIBUTARIAS"
+    },
+    {
+      "name": "INCOR MEJORA EDIFICACION EN PREDIO AJENO"
+    },
+    {
+      "name": "CAMBIO DE NOMBRE"
+    },
+    {
+      "name": "RECUPERACION PREDIOS BORRADOS"
+    },
+    {
+      "name": "DESENGLOBE NPH-NO PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "DESENGLOBE PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "ENGLOBE NO PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "DESEN DESARRO URBANISTICOS Y ZONAS CES"
+    },
+    {
+      "name": "INCORPORACION CONSTRUCCION NPH"
+    },
+    {
+      "name": "ACTUAL, CORRECCION Y MODIF TOPOGRAFICOS"
+    },
+    {
+      "name": "RECTIFICACION VIGENCIAS AVALUOS"
+    },
+    {
+      "name": "NUEVA INCORPORACION"
+    },
+    {
+      "name": "RECTIFICACION NOMENCLATURA"
+    },
+    {
+      "name": "SOLICITUD COMUNIDADES"
+    },
+    {
+      "name": "AVALUO COMERCIAL CERTIF VIVIENDA INTERES"
+    },
+    {
+      "name": "CERTIFICACION DE  CABIDA Y LINDEROS"
+    },
+    {
+      "name": "REVISION AVALUO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUTOAVALUO CATASTRAL"
+    },
+    {
+      "name": "CERTIFICACION CATASTRAL"
+    },
+    {
+      "name": "CERTIFICACION MASIVA NOMENCLATURA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "DOCUMENTOS DE IDENTIFICACI\u00d3N EXTRAVIADOS"
+    },
+    {
+      "name": "RADICACI\u00d3N DE DOCUMENTOS PARA TRAMITE ANTE 20 LOCALIDADES Y NIVEL CENT"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICADOS DE PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "DOCUMENTOS DE IDENTIFICACI\u00d3N EXTRAVIADOS"
+    },
+    {
+      "name": "QUEJAS RECLAMOS -SDQS"
+    },
+    {
+      "name": "ORIENTACI\u00d3N Y\/O INFORMACI\u00d3N"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N"
+    },
+    {
+      "name": "RECEPCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "COPIA DEL RUT"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPLICACI\u00d3N DE LOS PROGRAMAS DEL IDRD"
+    },
+    {
+      "name": "LIBRE ELECCI\u00d3N"
+    },
+    {
+      "name": "SOLICITUD DE PROTABILIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N SERVICIOS NO POS-S"
+    },
+    {
+      "name": "TRASLADO DE MUNICIPIO"
+    },
+    {
+      "name": "TRASLADO DE EPS-S"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SUSCRIPCI\u00d3N DEL ACUERDO DE PAGO"
+    },
+    {
+      "name": "SUSCRIPCI\u00d3N DEL ACUERDO DE PAGO"
+    },
+    {
+      "name": "SALIDA DE PATIOS DE VEH\u00cdCULOS INMOVILIZADOS POR LESIONES U HOMICIDIO E"
+    },
+    {
+      "name": "REMISI\u00d3N Y CERTIFICACI\u00d3N DE ASISTENCIA A CURSO DE SENSIBILIZACI\u00d3N, CON"
+    },
+    {
+      "name": "REMISI\u00d3N Y CERTIFICACI\u00d3N DE ASISTENCIA A CURSO DE SENSIBILIZACI\u00d3N, CON"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N AL CURSO SOBRE NORMAS DE TR\u00c1NSITO PARA OBTENER EL DESCUENT"
+    },
+    {
+      "name": "SE NOTIFICA DE MANERA PERSONAL AQUELLOS COMPARENDO DE TIPO ELECTRONICO"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR  VENTA O DECLARACI\u00d3N DE PERTENENCIA)"
+    },
+    {
+      "name": "CESI\u00d3N DEL CONTRATO (POR FALLECIMIENTO DEL TITULAR)"
+    },
+    {
+      "name": "CESI\u00d3N DE CONTRATO (POR MANIFESTACI\u00d3N DEL NUEVO TITULAR)"
+    },
+    {
+      "name": "CAMBIO DE PLAN LOCAL"
+    },
+    {
+      "name": "AJUSTE DE DATOS"
+    },
+    {
+      "name": "REPOSICION DE SIM CARD - MODEM"
+    },
+    {
+      "name": "SUPENSION POR PERDIDA - ROBO"
+    },
+    {
+      "name": "ACTIVACION DE NUMERO O CAMBIO NUMERO  PREFERIDO"
+    },
+    {
+      "name": "DUPLICADO"
+    },
+    {
+      "name": "EXTEMPORANEO"
+    },
+    {
+      "name": "ACUERDOS DE PAGO"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA TERMINACI\u00d3N DE CONTRATO"
+    },
+    {
+      "name": "INCONFORMIDAD CON LOS COBROS INOPORTUNOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NOVEDADES RIT"
+    },
+    {
+      "name": "ESTADO DE CUENTA"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N RIT"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXT. VISUAL PARA GLOBO ANCLADO, ELEMENTO INFLABLE"
+    },
+    {
+      "name": "DISPONIBILIDAD DE SERVICIO EN  PREDIO"
+    },
+    {
+      "name": "FACTIBILIDAD DE REDES EN SECTOR"
+    },
+    {
+      "name": "IMPOSIBILIDAD. EN ACOMET. NO CAUSADAS X DISTRIBUIDORA"
+    },
+    {
+      "name": "INF. GENERAL DE PROCESO DE ALTA"
+    },
+    {
+      "name": "PROLONGACI\u00d3N DE RED"
+    },
+    {
+      "name": "REVISI\u00d3N POR POSIBLE TROQUE DE MEDIDORES"
+    },
+    {
+      "name": "SOLICITUD DE REINSTALACI\u00d3N DEL  SERVICIO"
+    },
+    {
+      "name": "SOLICITUD DE SERVICIO"
+    },
+    {
+      "name": "CONSULTA SUDSIDIOS Y PENSI\u00d3N  ADULTO MAYOR Y BENEFICIOS  PASAPORTE VIT"
+    },
+    {
+      "name": "DENUNCIA PERDIDA DE DOCUMENTOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N COLEGIOS DISTRITALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RECEPCI\u00d3N DE REQUERIMIENTOS"
+    },
+    {
+      "name": "CONSULTA ESTADO DE REQUERIMIENTOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE VIVIENDA"
+    },
+    {
+      "name": "CERTIFICADO DE ESTRATIFICACI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE ANTECEDENTES DISCIPLINARIOS, FISCALES Y JUDICIALES"
+    },
+    {
+      "name": "CONSULTA DATOS FOSYGA"
+    },
+    {
+      "name": "CONSULTA AFILIAC\u00d3N EPS"
+    },
+    {
+      "name": "CONSULTA COMPARENDOS"
+    },
+    {
+      "name": "CONSULTA LICENCIAS SUSPENDIDAS"
+    },
+    {
+      "name": "CONSULTA BANCO DE DOCUMENTOS"
+    },
+    {
+      "name": "CERTIFICADO CATASTRAL"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "INCORPORACION CONSTRUCCION NPH"
+    },
+    {
+      "name": "CORRECCION MENOR DE NOMENCLATURA"
+    },
+    {
+      "name": "ACTUAL, CORRECCION Y MODIF TOPOGRAFICOS"
+    },
+    {
+      "name": "CERTIFICACION DE REGISTROS ALFANUMERICOS"
+    },
+    {
+      "name": "RECURSO DE REPOSICION"
+    },
+    {
+      "name": "RECTF AREA TERRENO PREDIOS NPH"
+    },
+    {
+      "name": "CANCELACION PREDIO"
+    },
+    {
+      "name": "SOLICITUD COMUNIDADES"
+    },
+    {
+      "name": "AVALUO COMERCIAL CERTIF VIVIENDA INTERES"
+    },
+    {
+      "name": "CERTIFICACIONES MANUALES CONSERVACION"
+    },
+    {
+      "name": "CERTIFICACION DE  CABIDA Y LINDEROS"
+    },
+    {
+      "name": "ACTUALIZACION PLANOS"
+    },
+    {
+      "name": "SOLICITUD JUZGADOS"
+    },
+    {
+      "name": "AVALUOS COMERCIALES"
+    },
+    {
+      "name": "SOLICITUD PERITOS"
+    },
+    {
+      "name": "ASIGNACION PROVISIONAL NOMENCLATURA"
+    },
+    {
+      "name": "RECURSO DE APELACION"
+    },
+    {
+      "name": "REVOCATORIA DIREC\/PARTE"
+    },
+    {
+      "name": "CORRECCION IDENTIFICADOR PREDIAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "MODIFICACION ESTRATO USO Y DESTINO"
+    },
+    {
+      "name": "RECTIFICACION INFORMACION JURIDICA"
+    },
+    {
+      "name": "INCORPORACION DE TOPOGRAFICOS"
+    },
+    {
+      "name": "RECTIFICACION MASIVA DE NOMENCLATURA"
+    },
+    {
+      "name": "RECTIFICACION DE AREA CONSTRUIDA"
+    },
+    {
+      "name": "CORRECCION MENOR DE NOMENCLATURA"
+    },
+    {
+      "name": "REFORMA PH LEY 675"
+    },
+    {
+      "name": "CERTIFICACION DE REGISTROS ALFANUMERICOS"
+    },
+    {
+      "name": "RECURSO DE REPOSICION"
+    },
+    {
+      "name": "RECTF AREA TERRENO PREDIOS NPH"
+    },
+    {
+      "name": "CANCELACION PREDIO"
+    },
+    {
+      "name": "CERTIFICACIONES MANUALES CONSERVACION"
+    },
+    {
+      "name": "ACTUALIZACION PLANOS"
+    },
+    {
+      "name": "ASIGNACION PROVISIONAL NOMENCLATURA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUTOAVALUO CATASTRAL"
+    },
+    {
+      "name": "CERTIFICACION CATASTRAL (LISTADO)"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ENTREGA RESPUESTA RADICACIONES"
+    },
+    {
+      "name": "ENTREGA RESPUESTA RADICACIONES"
+    },
+    {
+      "name": "CERTIFICADOS DE RESIDENCIA DE LAS 20 ALCALDIAS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DE DOCUMENTOS PARA TRAMITE ANTE 20 LOCALIDADES Y NIVEL CENT"
+    },
+    {
+      "name": "RECEPCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ORIENTACI\u00d3N Y\/O INFORMACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTUALIZACI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "COPIA DEL RUT"
+    },
+    {
+      "name": "ENTREGA DE FORMULARIOS"
+    },
+    {
+      "name": "CAMBIO DE MODEM (DA\u00d1O - PERDIDA O ROBO)"
+    },
+    {
+      "name": "ACTIVACION DE IP ADICIONAL"
+    },
+    {
+      "name": "NUEVA INCORPORACION"
+    },
+    {
+      "name": "RECTIFICACION NOMENCLATURA"
+    },
+    {
+      "name": "REFORMA PH\/INCORPORACION CONSTRUCCION PH"
+    },
+    {
+      "name": "SOLICITUD JUZGADOS"
+    },
+    {
+      "name": "AVALUOS COMERCIALES"
+    },
+    {
+      "name": "SOLICITUD PERITOS"
+    },
+    {
+      "name": "RECURSO DE APELACION"
+    },
+    {
+      "name": "CERTIFICACION CATASTRAL (LISTADO)"
+    },
+    {
+      "name": "CERTF INSCRIPCION CENSO CATASTRAL"
+    },
+    {
+      "name": "CERTIFICADOS DE PROPIEDAD HORIZONTAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICADOS DE RESIDENCIA DE LAS 20 ALCALDIAS"
+    },
+    {
+      "name": "EMISI\u00d3N"
+    },
+    {
+      "name": "RENOVACI\u00d3N"
+    },
+    {
+      "name": "HABILITACI\u00d3N"
+    },
+    {
+      "name": "INHABILITACI\u00d3N"
+    },
+    {
+      "name": "ENTREGA DE FORMULARIOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACION"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "LIQUIDACION DE SEGURIDAD  SOCIAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONTRATOS DE TRABAJO - MODALIDADES"
+    },
+    {
+      "name": "CTA- COMPENSACIONES"
+    },
+    {
+      "name": "DESCUENTOS NO  AUTORIZADOS"
+    },
+    {
+      "name": "DESPIDO EN INCAPACIDAD"
+    },
+    {
+      "name": "ACOSO LABORAL"
+    },
+    {
+      "name": "APORTES PARAFISCALES: CCF, SENA, ICBF"
+    },
+    {
+      "name": "PORTABILIDAD NUMERICA"
+    },
+    {
+      "name": "ACTIVACI\u00d3N"
+    },
+    {
+      "name": "ADICIONAR M\u00d3VILES"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO M\u00d3VIL"
+    },
+    {
+      "name": "CANCELACI\u00d3N DE M\u00d3VILES"
+    },
+    {
+      "name": "CONSULTA DE N\u00daMERO M\u00d3VIL"
+    },
+    {
+      "name": "INFORMACI\u00d3N"
+    },
+    {
+      "name": "PQR\u00b4S (AJUSTES DE FACTURACI\u00d3N)"
+    },
+    {
+      "name": "CAMBIO DE ACTIVIDAD"
+    },
+    {
+      "name": "CAMBIO DE DIRECCI\u00d3N"
+    },
+    {
+      "name": "CAMBIO DE PLAN"
+    },
+    {
+      "name": "CAMBIO DE N\u00daMERO"
+    },
+    {
+      "name": "DESCONFORMACI\u00d3N"
+    },
+    {
+      "name": "AMPLIACI\u00d3N"
+    },
+    {
+      "name": "CONFORMACI\u00d3N"
+    },
+    {
+      "name": "INFORMACI\u00d3N (CLIENTE FILTRADO)"
+    },
+    {
+      "name": "REPORTE DE DA\u00d1O"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL CAMBIO DE CICLO DE FACTURACI\u00d3N."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA SUSPENSI\u00d3N DEL SERVICIO CON RECURSO EN TR\u00c1MITE"
+    },
+    {
+      "name": "CERTIFICADO DE ESTRATIFICACI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE ANTECEDENTES DISCIPLINARIOS, FISCALES Y JUDICIALES"
+    },
+    {
+      "name": "EXPEDICI\u00d3N PUNTAJE SISBEN"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "DUPLICADO FACTURA CON COBRO"
+    },
+    {
+      "name": "DUPLICADO NO LLEGO FACTURA"
+    },
+    {
+      "name": "DUPLICADO POR OTROS PROCESOS"
+    },
+    {
+      "name": "TR\u00c1MITE TRASLADO QUIOSCO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACTA  RTR SIN GRABAR EN TIEMPO EST."
+    },
+    {
+      "name": "FINANCIACI\u00d3N VALOR VISITA RTR"
+    },
+    {
+      "name": "INF. REPARACIONES POR RTR"
+    },
+    {
+      "name": "INF. FECHA VISITA DE RTR-VTR"
+    },
+    {
+      "name": "INF. GENERAL DE RTR-VTR"
+    },
+    {
+      "name": "INFORMACI\u00d3N DATOS FIC - REPARADORA"
+    },
+    {
+      "name": "PROGRAM. DE VISITA RTR-VTR"
+    },
+    {
+      "name": "CLIENTES GNV"
+    },
+    {
+      "name": "CLIENTES  INDUSTRIALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PROLONGACI\u00d3N DE RED"
+    },
+    {
+      "name": "REVISI\u00d3N POR POSIBLE TROQUE DE MEDIDORES"
+    },
+    {
+      "name": "SERVICIO NO SOLICITADO"
+    },
+    {
+      "name": "SOLICITUD DE COPIA DE DOCUMENTOS DE ALTA"
+    },
+    {
+      "name": "SOLICITUD DE REINSTALACI\u00d3N DEL  SERVICIO"
+    },
+    {
+      "name": "SOLICITUD DE SERVICIO"
+    },
+    {
+      "name": "VOLANTE  DE PAGO COMPARENDOS"
+    },
+    {
+      "name": "CERTIFICADO C\u00c9DULA DE CIUDADAN\u00cdA"
+    },
+    {
+      "name": "CERTIFICADO SEMANAS COTIZADAS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "IMPUESTO PREDIAL VIGENCIA"
+    },
+    {
+      "name": "IMPUESTO VEH\u00cdCULO VIGENCIA"
+    },
+    {
+      "name": "CONSULTA ESTADO ESTUDIANTE"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPEDICI\u00d3N PUNTAJE SISBEN"
+    },
+    {
+      "name": "VOLANTE  DE PAGO COMPARENDOS"
+    },
+    {
+      "name": "CERTIFICADO DE DESCUENTO Y RETENCI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE PAGO DE IMPUESTO PREDIAL Y VEH\u00cdCULO"
+    },
+    {
+      "name": "CERTIFICADO C\u00c9DULA DE CIUDADAN\u00cdA"
+    },
+    {
+      "name": "CERTIFICADO SEMANAS COTIZADAS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "IMPUESTO PREDIAL VIGENCIA"
+    },
+    {
+      "name": "IMPUESTO VEH\u00cdCULO VIGENCIA"
+    },
+    {
+      "name": "IMPUESTO PREDIAL A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "IMPUESTO VEH\u00cdCULO A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "CONSULTA PAGOS PREDIAL Y VEH\u00cdCULOS"
+    },
+    {
+      "name": "CONSULTA RELACIONES DE PAGO  DE IMPUESTO ICA"
+    },
+    {
+      "name": "EXPEDICI\u00d3N COPIA FACTURA  ACUEDUCTO"
+    },
+    {
+      "name": "DUPLICADO FACTURA GAS NATURAL"
+    },
+    {
+      "name": "DUPLICADO FACTURA CODENSA"
+    },
+    {
+      "name": "DUPLICADO FACTURA ETB"
+    },
+    {
+      "name": "CONSULTA SUDSIDIOS Y PENSI\u00d3N  ADULTO MAYOR Y BENEFICIOS  PASAPORTE VIT"
+    },
+    {
+      "name": "CONSULTA GU\u00cdA DE TR\u00c1MITES Y MAPA CALLEJERO."
+    },
+    {
+      "name": "CONSULTA ENTIDADES   NO  PRESENTES EN LA GU\u00cdA DE TR\u00c1MITES"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL SOBRE TR\u00c1MITES DEL SECTOR MOVILIDAD"
+    },
+    {
+      "name": "BRINDAR INFORMACI\u00d3N DEL PROGRAMA RECREATIVO PARA EL ADULTO MAYOR Y REG"
+    },
+    {
+      "name": "COPASO"
+    },
+    {
+      "name": "DERECHOS Y PRESTACIONES SOCIALES  POR MUERTE DEL TRABAJADOR"
+    },
+    {
+      "name": "AFILIACI\u00d3N Y APORTE AL SISTEMA DE  SEGURIDAD SOCIAL"
+    },
+    {
+      "name": "INCONFORMIDAD CON COBROS POR SERVICIOS NO PRESTADOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL PLAN TARIFARIO"
+    },
+    {
+      "name": "INCONFORMIDAD CON PAGOS NO ABONADOS Y NO ABONO OPORTUNO"
+    },
+    {
+      "name": "NEGACI\u00d3N DE LA RELACI\u00d3N CONTRACTUAL"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA PUBLICIDAD"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA MODIFICACI\u00d3N DE LA TARIFA Y PLANES"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL CORTE,SUSPENSI\u00d3N,DESCONEXI\u00d3N,DESACTIVACI\u00d3N ETC"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL PLAZO PARA EL INICIO DE LA PRESTACI\u00d3N DEL SERVICI"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PRODUCTO SERVIGAS"
+    },
+    {
+      "name": "PRODUCTO ASEGURADORA"
+    },
+    {
+      "name": "PRODUCTO COORSERPARK"
+    },
+    {
+      "name": "CONCEPTOS NO INHERENTES"
+    },
+    {
+      "name": "INF. GENERAL DEL PROCESO"
+    },
+    {
+      "name": "INF. OTRAS L\u00cdNEAS DE ATENCI\u00d3N"
+    },
+    {
+      "name": "TR\u00c1MITE TRASLADO CABINA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "FALTA DE DISPONIBILIDAD DEL SERVICIO POR FALLA T\u00c9CNICA"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA CALIDAD DE ATENCI\u00d3N AL USUARIO"
+    },
+    {
+      "name": "INCONFORMIDAD POR LA NEGATIVA EN RECIBIR UNA PETICI\u00d3N, QUEJA Y RECURSO"
+    },
+    {
+      "name": "INCONFORMIDAD SOBRE EL CUMPLIMIENTO DE UNA ORDEN DE LA SIC"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA UTILIZACI\u00d3N DE DATOS PERSONALES"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL REPORTE A CENTRALES DE RIESGOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ENTREGA Y OPORTUNIDAD DE LA FACTURA"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL COBRO EN LAS CONSULTA POR ATENCI\u00d3N AL USUARIO"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA FACTURACI\u00d3N."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA COMPENSACI\u00d3N"
+    },
+    {
+      "name": "INCONFORMIDAD CON EL COBRO DE SERVICIOS SUPLEMENTARIOS Y ADICIONALES"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ACTIVACI\u00d3N Y DESACTIVACI\u00d3N DE SUPLEMENTARIOS"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA ACTIVACI\u00d3N DE EQUIPOS TERMINALES Y\/O L\u00cdNEAS"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA RECEPCI\u00d3N DE EQUIPO TERMINAL EN GARANT\u00cdA"
+    },
+    {
+      "name": "INCONFORMIDAD CON LA REPOSICI\u00d3N DE EQUIPOS TERMINALES."
+    },
+    {
+      "name": "INCONFORMIDAD CON LA VELOCIDAD O INTERMITENCIA DEL A INTERNET"
+    },
+    {
+      "name": "CONSULTA COMPARENDOS"
+    },
+    {
+      "name": "CONSULTA LICENCIAS SUSPENDIDAS"
+    },
+    {
+      "name": "CONSULTA GU\u00cdA DE TR\u00c1MITES Y MAPA CALLEJERO."
+    },
+    {
+      "name": "CONSULTA ENTIDADES   NO  PRESENTES EN LA GU\u00cdA DE TR\u00c1MITES"
+    },
+    {
+      "name": "CONSULTA BANCO DE DOCUMENTOS"
+    },
+    {
+      "name": "ENTREGA DE VOLANTE DE PAGO POR LA IMPOCISI\u00d3N DE UN COMPARENTO"
+    },
+    {
+      "name": "ENTREGA DE  BRUCHUR DEL PASAPORTE VITAL."
+    },
+    {
+      "name": "ENTREGA PLEGABLE INSTITUCIONAL Y REGISTRO DE DATOS DEL CIUDADANO."
+    },
+    {
+      "name": "ENTREGA PASAPORTE VITAL"
+    },
+    {
+      "name": "ENTREGA DE  BRUCHUR DEL PASAPORTE VITAL."
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PIN"
+    },
+    {
+      "name": "DOTACI\u00d3N"
+    },
+    {
+      "name": "CESANT\u00cdAS"
+    },
+    {
+      "name": "COMISIONES"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE VIVIENDA"
+    },
+    {
+      "name": "CERTIFICADO DE DESCUENTO Y RETENCI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE PAGO DE IMPUESTO PREDIAL Y VEH\u00cdCULO"
+    },
+    {
+      "name": "CONSULTA DATOS FOSYGA"
+    },
+    {
+      "name": "CONSULTA AFILIAC\u00d3N EPS"
+    },
+    {
+      "name": "CERTIFICADO CATASTRAL"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL SOBRE TR\u00c1MITES DEL SECTOR MOVILIDAD"
+    },
+    {
+      "name": "ENTREGA PASAPORTE VITAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPLICACI\u00d3N DE LOS PROGRAMAS DEL IDRD"
+    },
+    {
+      "name": "BRINDAR INFORMACI\u00d3N DEL PROGRAMA RECREATIVO PARA EL ADULTO MAYOR Y REG"
+    },
+    {
+      "name": "ENTREGA PLEGABLE INSTITUCIONAL Y REGISTRO DE DATOS DEL CIUDADANO."
+    },
+    {
+      "name": "PIN"
+    },
+    {
+      "name": "SOPORTE"
+    },
+    {
+      "name": "PIN VENCIDO"
+    },
+    {
+      "name": "PIN ACTUAL"
+    },
+    {
+      "name": "PIN CONFIRMACION"
+    },
+    {
+      "name": "CERTIFICADOS"
+    },
+    {
+      "name": "SOPORTE DE PAGO"
+    },
+    {
+      "name": "INFORMACION"
+    },
+    {
+      "name": "DESPIDO EN CONDICION DE DISCAPACIDAD"
+    },
+    {
+      "name": "SOPORTE"
+    },
+    {
+      "name": "DESPIDO Y \/ O TERMINACI\u00d3N DE CONTRATO EN ESTADO DE EMBARAZO"
+    },
+    {
+      "name": "APRENDICES (CONTRATO DE APRENDIZAJE)"
+    },
+    {
+      "name": "DISPONIBILIDAD DE SERVICIO EN  PREDIO"
+    },
+    {
+      "name": "FACTIBILIDAD DE REDES EN SECTOR"
+    },
+    {
+      "name": "IMPUESTO PREDIAL A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "IMPUESTO VEH\u00cdCULO A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "CONSULTA PAGOS PREDIAL Y VEH\u00cdCULOS"
+    },
+    {
+      "name": "CONSULTA RELACIONES DE PAGO  DE IMPUESTO ICA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPEDICI\u00d3N COPIA FACTURA  ACUEDUCTO"
+    },
+    {
+      "name": "DUPLICADO FACTURA GAS NATURAL"
+    },
+    {
+      "name": "DUPLICADO FACTURA CODENSA"
+    },
+    {
+      "name": "DUPLICADO FACTURA ETB"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ELEMENTOS ESENCIALES DEL CONTRATO"
+    },
+    {
+      "name": "INDEMNIZACION MORATORIA"
+    },
+    {
+      "name": "CUANDO SE PUEDE DEJAR DE COTIZAR EN FORMA OBLIGATORIA"
+    },
+    {
+      "name": "ENTIDADES, NORMAS Y PROCEDIMIENTOS"
+    },
+    {
+      "name": "AFILIACION TRABAJADOR IND"
+    },
+    {
+      "name": "QUE ES EL FONDO DE SOLIDARIDAD PENSIONAL Y QUE SUBSIDIOS OTORGA"
+    },
+    {
+      "name": "REAJUSTE DE LA PENSION"
+    },
+    {
+      "name": "R\u00c9GIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD"
+    },
+    {
+      "name": "REQUISITOS PARA PENSION DE VEJEZ"
+    },
+    {
+      "name": "DERECHOS Y PRESTACIONES SOCIALES  POR MUERTE DEL TRABAJADOR"
+    },
+    {
+      "name": "DESPIDO EN CONDICION DE DISCAPACIDAD"
+    },
+    {
+      "name": "DESPIDO Y \/ O TERMINACI\u00d3N DE CONTRATO EN ESTADO DE EMBARAZO"
+    },
+    {
+      "name": "EMPRESAS DE SERVICIOS TEMPORALES"
+    },
+    {
+      "name": "EX\u00c1MENES DE INGRESO Y EGRESO"
+    },
+    {
+      "name": "INDEMNIZACIONES POR TERMINACION DE CONTRATOM"
+    },
+    {
+      "name": "INTERMEDIACION LABORAL"
+    },
+    {
+      "name": "JORNADA DE TRABAJO"
+    },
+    {
+      "name": "LICENCIA DE MATERNIDAD"
+    },
+    {
+      "name": "REGISTRO DE ENAJENADOR DE INMUEBLES DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "SOLICITUD CANCELACI\u00d3N REG. ENAJENADOR INMUEB. DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "ESQUEMA MESA DE SOLUCIONES"
+    },
+    {
+      "name": "SOLICITUD DE MATR\u00cdCULA DE ARRENDADOR"
+    },
+    {
+      "name": "SOLICITUD DE CANCELACI\u00d3N DE LA MATR\u00cdCULA DE ARRENDADOR"
+    },
+    {
+      "name": "PERMISO PARA CAPTACI\u00d3N DE RECURSOS"
+    },
+    {
+      "name": "PERMISO DE ESCRITURACI\u00d3N"
+    },
+    {
+      "name": "LEGALIZACI\u00d3N URBAN\u00cdSTICA DE ASENTAMIENTOS HUMANOS"
+    },
+    {
+      "name": "ACCEDER AL SERVICIO B\u00c1SICO DE ACUEDUCTO Y ALCANTARILLADO"
+    },
+    {
+      "name": "INSTALAR O CAMBIAR TAPA Y\/O CAJILLA DEL MEDIDOR"
+    },
+    {
+      "name": "CAMBIAR CLASE DE USO DEL INMUEBLE"
+    },
+    {
+      "name": "CAMBIAR LA DIRECCI\u00d3N EN LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "CAMBIAR ESTRATO EN LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "CAMBIAR NOMBRE DEL SUSCRIPTOR DE LA FACTURA"
+    },
+    {
+      "name": "CAMBIAR TARIFAS DE HOGARES COMUNITARIOS"
+    },
+    {
+      "name": "DA\u00d1OS OPERATIVOS - DA\u00d1OS COMERCIALES"
+    },
+    {
+      "name": "DENUNCIA DEL CONTRATO DE ARRENDAMIENTO"
+    },
+    {
+      "name": "DIRECCI\u00d3N DE CORRESPONDENCIA"
+    },
+    {
+      "name": "INDEPENDIZAR EL SERVICIO DE ACUEDUCTO  ( HASTA TRES ACOMETIDAS )"
+    },
+    {
+      "name": "RECLAMOS POR FACTURACI\u00d3N"
+    },
+    {
+      "name": "RECONEXI\u00d3N DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "REINSTALACI\u00d3N DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "REPOSICI\u00d3N DE MEDIDOR POR HURTO"
+    },
+    {
+      "name": "REUBICAR CAJILLA DEL MEDIDOR"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "INSTALACI\u00d3N TEMPORAL DEL SERVICIO P\u00daBLICO"
+    },
+    {
+      "name": "DISPONIBILIDAD DE SERVICIOS P\u00daBLICOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INDEPENDIZAR EL SERVICIO DE ACUEDUCTO (M\u00c1S DE TRES ACOMETIDAS)"
+    },
+    {
+      "name": "LICENCIA DE PATERNIDAD"
+    },
+    {
+      "name": "PAGO DE INCAPACIDADES"
+    },
+    {
+      "name": "REGLAMENTO INTERNO DE TRABAJO E HIGIENE Y SEGURIDAD INDUSTRIAL"
+    },
+    {
+      "name": "RAD. INDEMNIZACIONES"
+    },
+    {
+      "name": "SALARIO Y FACTORES SALARIALES"
+    },
+    {
+      "name": "SANCIONES DISCIPLINARIAS"
+    },
+    {
+      "name": "SERVICIO DOM\u00c9STICO"
+    },
+    {
+      "name": "TRABAJADORES DE DIRECCI\u00d3N, CONFIANZA Y MANEJO"
+    },
+    {
+      "name": "AUTORIZACION SERVICIOS ASISTENCIALES"
+    },
+    {
+      "name": "INDEMNIZACION SUSTITUTIVA DE PENSION"
+    },
+    {
+      "name": "LIMITE BASE DE COTIZACION"
+    },
+    {
+      "name": "MESADA 14"
+    },
+    {
+      "name": "ACCIDENTE DE TRABAJO Y \/ O REPORTE"
+    },
+    {
+      "name": "TRABAJADORES MENORES DE EDAD"
+    },
+    {
+      "name": "TRASLADO DE COTIZACIONES"
+    },
+    {
+      "name": "CONSULTA ESTADO ESTUDIANTE"
+    },
+    {
+      "name": "DENUNCIA PERDIDA DE DOCUMENTOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N COLEGIOS DISTRITALES"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE REDES Y SUBSIDIO DE VIVIENDA"
+    },
+    {
+      "name": "REVISI\u00d3N DE PROYECTOS DE REDES EXTERNAS URBANIZADOR"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RECEPCI\u00d3N DE REQUERIMIENTOS"
+    },
+    {
+      "name": "CONSULTA ESTADO DE REQUERIMIENTOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EMPRESAS DE SERVICIOS TEMPORALES"
+    },
+    {
+      "name": "EX\u00c1MENES DE INGRESO Y EGRESO"
+    },
+    {
+      "name": "PIN VENCIDO"
+    },
+    {
+      "name": "PIN ACTUAL"
+    },
+    {
+      "name": "INDEMNIZACIONES POR TERMINACION DE CONTRATO"
+    },
+    {
+      "name": "PIN CONFIRMACION"
+    },
+    {
+      "name": "INTERMEDIACION LABORAL"
+    },
+    {
+      "name": "LICENCIA DE LUTO"
+    },
+    {
+      "name": "LIQUIDACION DE SEGURIDAD  SOCIAL"
+    },
+    {
+      "name": "LICENCIA DE PATERNIDAD"
+    },
+    {
+      "name": "OBLIGACIONES, PROHIBICIONES Y DERECHOS DEL  TRABAJADOR Y EL EMPLEADOR"
+    },
+    {
+      "name": "PAGO DE INCAPACIDADES"
+    },
+    {
+      "name": "PAGO DE: HORAS EXTRAS, TRABAJO NOCTURNO, DOMINICAL Y FESTIVO."
+    },
+    {
+      "name": "TRABAJADORES DE DIRECCI\u00d3N, CONFIANZA Y MANEJO"
+    },
+    {
+      "name": "CONMUTACION PENSIONAL"
+    },
+    {
+      "name": "CONVENIO ESPA\u00d1A"
+    },
+    {
+      "name": "INFORMACION GENERAL"
+    },
+    {
+      "name": "LIMITE BASE DE COTIZACION"
+    },
+    {
+      "name": "RECAUDO ARL"
+    },
+    {
+      "name": "MESADA 14"
+    },
+    {
+      "name": "PENSIONADOS"
+    },
+    {
+      "name": "MONTO (%) DE  COTIZACION"
+    },
+    {
+      "name": "RAD. CORRESPONDENCIA"
+    },
+    {
+      "name": "NORMAS APLICABLES AL REGIMEN DE TRANSICION"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AFILIACION EMPRESAS"
+    },
+    {
+      "name": "AFILIACION TRABAJADOR DEP"
+    },
+    {
+      "name": "PROGRAMA COLOMBIA MAYOR"
+    },
+    {
+      "name": "INCAPACIDADES"
+    },
+    {
+      "name": "CORRECCION RECAUDO"
+    },
+    {
+      "name": "REGIMEN DE TRANSICION"
+    },
+    {
+      "name": "RAD. INDEMNIZACIONES"
+    },
+    {
+      "name": "R\u00c9GIMEN SOLIDARIO DE PRIMA MEDIA CON PRESTACI\u00d3N DEFINIDA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "REQUISITOS PARA LA PENSION DE INVALIDEZ POR RIESGO COMUN"
+    },
+    {
+      "name": "REQUISITOS PARA OBTENER LA PENSION DE VEJEZ"
+    },
+    {
+      "name": "SALARIO BASE DE LIQUIDACION DE PENSION DE VEJEZ"
+    },
+    {
+      "name": "TERMINOS PARA RESOLVER SOLICITUDES DE PENSIONES"
+    },
+    {
+      "name": "INFORMACION GENERAL"
+    },
+    {
+      "name": "OBLIGACIONES Y PRESTACIONES QUE OTORGA EL SISTEMA RIESGOS LABORALES"
+    },
+    {
+      "name": "SOLICITUD DE VISITA PARA OBTENER CERTIFICACI\u00d3N DE N\u00b0 DE TRABAJADORES"
+    },
+    {
+      "name": "TURNOS OTRA ENTIDAD"
+    },
+    {
+      "name": "DEP\u00d3SITOS DE FUNDACIONES DE ORGANIZACIONES SINDICALES Y DE CAMBIO DE J"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE RECLAMACIONES LABORALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PENSIONADOS: RECONOCIMIENTO PERSONER\u00cdA JURIDICA, INSCRIPCI\u00d3N JUNTA DIR"
+    },
+    {
+      "name": "TELETRABAJO"
+    },
+    {
+      "name": "TRABAJADOR CESANTE"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N AGENCIAS DE COLOCACION DE EMPLEO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TRABAJO A MENORES"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DESPIDO ESTADO DE EMBARAZO"
+    },
+    {
+      "name": "AUTORIZAR CIERRE O SUSPENSI\u00d3N DE ACTIVIDADES"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE EXISTENCIA DE ORGANIZACIONES SINDICALES"
+    },
+    {
+      "name": "VACACIONES"
+    },
+    {
+      "name": "TRABAJO EN ALTURAS"
+    },
+    {
+      "name": "TRASLADO DE R\u00c9GIMEN"
+    },
+    {
+      "name": "AUTORIZACIONES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CARNETIZACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AFILIACION"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AFILIACION"
+    },
+    {
+      "name": "CARNETIZACION"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICADOS"
+    },
+    {
+      "name": "JORNADA DE TRABAJO"
+    },
+    {
+      "name": "SOPORTE DE PAGO"
+    },
+    {
+      "name": "LICENCIA DE MATERNIDAD"
+    },
+    {
+      "name": "LICENCIAS REMUNERADAS Y NO REMUNERADAS"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PRESTACIONES SOCIALES"
+    },
+    {
+      "name": "MODALIDADES DE REMUNERACI\u00d3N: SALARIO EN ESPECIE, SALARIO INTEGRAL."
+    },
+    {
+      "name": "PERIODO DE PRUEBA"
+    },
+    {
+      "name": "SALARIO Y FACTORES SALARIALES"
+    },
+    {
+      "name": "SERVICIO DOM\u00c9STICO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICADOS CARNET NOVEDADES"
+    },
+    {
+      "name": "INDEMNIZACION SUSTITUTIVA DE PENSION"
+    },
+    {
+      "name": "INGRESO BASE DE LIQUIDACION"
+    },
+    {
+      "name": "PRESTACIONES ECONOMICAS"
+    },
+    {
+      "name": "OBLIGATORIEDAD DE LA AFILIACIONES"
+    },
+    {
+      "name": "PENSION SOBREVIVIENTE"
+    },
+    {
+      "name": "PRESTACIONES A QUE TIENE DERECHO"
+    },
+    {
+      "name": "RELIQUIDACION DE LA PENSION"
+    },
+    {
+      "name": "AUTORIZACION SERVICIOS ASISTENCIALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CERTIFICADOS CARNET NOVEDADES"
+    },
+    {
+      "name": "PRESTACIONES ECONOMICAS"
+    },
+    {
+      "name": "COMO SE EVALUA LA PERDIDA DE CAPACIDAD LABORAL"
+    },
+    {
+      "name": "SISTEMA GENERAL DE RIESGOS LABORALES LEY 1562  DE 2012"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONCILIACIONES"
+    },
+    {
+      "name": "CONSTATACI\u00d3N DE CESE DE ACTIVIDADES"
+    },
+    {
+      "name": "COPIAS DE CONVENCIONES COLECTIVAS, PACTOS COLECTIVOS Y LAUDOS ARBITRAL"
+    },
+    {
+      "name": "AFILIACIONES VOLUNTARIAS"
+    },
+    {
+      "name": "AFILIACI\u00d3N Y APORTES AL SISTEMA GENERAL DE PENSIONES"
+    },
+    {
+      "name": "AFILIADOS OBLIGATORIOS"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE DISMINUCI\u00d3N DE CAPITAL SOCIAL"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE EMPRESAS DE SERVICIOS TEMPORALES"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TERMINACI\u00d3N DE CONTRATO DE TRABAJADOR EN CONDICIONES D"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N PARA LABORAR HORAS EXTRAS"
+    },
+    {
+      "name": "AUTORIZAR REG\u00cdMENES DE TRABAJO ASOCIADO"
+    },
+    {
+      "name": "BENEFICIARIOS PENSION DE SOBREVIVIENTE"
+    },
+    {
+      "name": "BEPS"
+    },
+    {
+      "name": "BONO PENSIONAL - DERECHOS - PARA QUE SIRVE"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE NO EXISTENCIA DE RECLAMACIONES LABORALES( PAZ Y SALVO"
+    },
+    {
+      "name": "TRABAJADORES DE LA CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "TRABAJADORES MENORES DE EDAD"
+    },
+    {
+      "name": "PERMISOS"
+    },
+    {
+      "name": "PREAVISO"
+    },
+    {
+      "name": "PRIMA DE SERVICIOS"
+    },
+    {
+      "name": "REGLAMENTO INTERNO DE TRABAJO E HIGIENE Y SEGURIDAD INDUSTRIAL"
+    },
+    {
+      "name": "SANCIONES DISCIPLINARIAS"
+    },
+    {
+      "name": "SUSPENSI\u00d3N DEL CONTRATO"
+    },
+    {
+      "name": "COTIZACION CON VARIAS VINCULACIONES LABORALES"
+    },
+    {
+      "name": "CONCEPTO Y VALORACION DE UNA ENFERMEDAD COMUN O PROFESIONAL \/ LABORAL"
+    },
+    {
+      "name": "RECAUDO ARL"
+    },
+    {
+      "name": "PROTECCI\u00d3N DE LA SALUD Y SEGURIDAD EN EL TRABAJO"
+    },
+    {
+      "name": "PENSIONADOS"
+    },
+    {
+      "name": "QUIEN CALIFICA EL GRADO DE INVALIDEZ"
+    },
+    {
+      "name": "RAD. CORRESPONDENCIA"
+    },
+    {
+      "name": "SALUD OCUPACIONAL"
+    },
+    {
+      "name": "INCLUSI\u00d3N DE PERSONAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N DE PUNTAJE"
+    },
+    {
+      "name": "SOLICITUD DE ENCUESTA"
+    },
+    {
+      "name": "RESERVAS VIALES"
+    },
+    {
+      "name": "RIESGO PARA COMPRA DE VIVIENDA"
+    },
+    {
+      "name": "APERTURA DE ESTABLECIMIENTO COMERCIAL"
+    },
+    {
+      "name": "PLUSVALIA"
+    },
+    {
+      "name": "ANTENAS DE TELECOMUNICACIONES"
+    },
+    {
+      "name": "TR\u00c1MITES SOBRE LICENCIAS DE CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NORMA Y\/O USO DEL SUELO"
+    },
+    {
+      "name": "BIENES DE INTER\u00c9S CULTURAL-EQUIPARACI\u00d3N"
+    },
+    {
+      "name": "RESERVAS VIALES"
+    },
+    {
+      "name": "RIESGO PARA COMPRA DE VIVIENDA"
+    },
+    {
+      "name": "APERTURA DE ESTABLECIMIENTO COMERCIAL"
+    },
+    {
+      "name": "PLUSVALIA"
+    },
+    {
+      "name": "SANCIONES"
+    },
+    {
+      "name": "A QUIEN SE CONSIDERA INVALIDO- PENSION DE INVALIDEZ- REQUISITOS"
+    },
+    {
+      "name": "APORTES VOLUNTARIOS EN PENSION OBLIGATORIA"
+    },
+    {
+      "name": "AFILIACION TRABAJADOR DEP"
+    },
+    {
+      "name": "CONVENIO ESPA\u00d1A"
+    },
+    {
+      "name": "CUANDO SE PUEDE DEJAR DE COTIZAR EN FORMA OBLIGATORIA"
+    },
+    {
+      "name": "A QUIEN SE CONSIDERA INVALIDO- PENSION DE INVALIDEZ- REQUISITOS"
+    },
+    {
+      "name": "AFILIACIONES VOLUNTARIAS"
+    },
+    {
+      "name": "AFILIADOS OBLIGATORIOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NORMA Y\/O USO DEL SUELO"
+    },
+    {
+      "name": "BIENES DE INTER\u00c9S CULTURAL-EQUIPARACI\u00d3N"
+    },
+    {
+      "name": "ANTENAS DE TELECOMUNICACIONES"
+    },
+    {
+      "name": "TR\u00c1MITES SOBRE LICENCIAS DE CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONSULTA DE ESTRATIFICACI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE ESTRATO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONSULTA DE ESTRATIFICACI\u00d3N"
+    },
+    {
+      "name": "CERTIFICADO DE ESTRATO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PAGO DE: HORAS EXTRAS, TRABAJO NOCTURNO, DOMINICAL Y FESTIVO."
+    },
+    {
+      "name": "INCAPACIDADES"
+    },
+    {
+      "name": "PERIODO DE PRUEBA"
+    },
+    {
+      "name": "PERMISOS"
+    },
+    {
+      "name": "PREAVISO"
+    },
+    {
+      "name": "CORRECCION RECAUDO"
+    },
+    {
+      "name": "PRIMA DE SERVICIOS"
+    },
+    {
+      "name": "SUSPENSI\u00d3N DEL CONTRATO"
+    },
+    {
+      "name": "CONMUTACION PENSIONAL"
+    },
+    {
+      "name": "COTIZACION CON VARIAS VINCULACIONES LABORALES"
+    },
+    {
+      "name": "ENTIDADES, NORMAS Y PROCEDIMIENTOS"
+    },
+    {
+      "name": "INGRESO BASE DE LIQUIDACION"
+    },
+    {
+      "name": "ACOSO LABORAL"
+    },
+    {
+      "name": "APRENDICES (CONTRATO DE APRENDIZAJE)"
+    },
+    {
+      "name": "AFILIACI\u00d3N Y APORTES AL SISTEMA GENERAL DE PENSIONES"
+    },
+    {
+      "name": "APORTES VOLUNTARIOS EN PENSION OBLIGATORIA"
+    },
+    {
+      "name": "AUXILIO DE TRANSPORTE"
+    },
+    {
+      "name": "BENEFICIARIOS PENSION DE SOBREVIVIENTE"
+    },
+    {
+      "name": "BONO PENSIONAL - DERECHOS - PARA QUE SIRVE"
+    },
+    {
+      "name": "COMISIONES"
+    },
+    {
+      "name": "VACACIONES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TRABAJADORES DE LA CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "LICENCIAS DE CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "MANZANAS Y URBANISMO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUMENTO - DISMINUCI\u00d3N PLAZO CARTERA AL D\u00cdA"
+    },
+    {
+      "name": "REFINANCIACI\u00d3N Y REDIFERIDOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONTRATOS DE TRABAJO - MODALIDADES"
+    },
+    {
+      "name": "COPASO"
+    },
+    {
+      "name": "CTA- COMPENSACIONES"
+    },
+    {
+      "name": "DESCUENTOS NO  AUTORIZADOS"
+    },
+    {
+      "name": "DESPIDO EN INCAPACIDAD"
+    },
+    {
+      "name": "ELEMENTOS ESENCIALES DEL CONTRATO"
+    },
+    {
+      "name": "INDEMNIZACION MORATORIA"
+    },
+    {
+      "name": "AFILIACION EMPRESAS"
+    },
+    {
+      "name": "AFILIACION TRABAJADOR IND"
+    },
+    {
+      "name": "LICENCIA DE LUTO"
+    },
+    {
+      "name": "LICENCIAS REMUNERADAS Y NO REMUNERADAS"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N DE PRESTACIONES SOCIALES"
+    },
+    {
+      "name": "MODALIDADES DE REMUNERACI\u00d3N: SALARIO EN ESPECIE, SALARIO INTEGRAL."
+    },
+    {
+      "name": "OBLIGACIONES, PROHIBICIONES Y DERECHOS DEL  TRABAJADOR Y EL EMPLEADOR"
+    },
+    {
+      "name": "AFILIACI\u00d3N Y APORTE AL SISTEMA DE  SEGURIDAD SOCIAL"
+    },
+    {
+      "name": "APORTES PARAFISCALES: CCF, SENA, ICBF"
+    },
+    {
+      "name": "CESANT\u00cdAS"
+    },
+    {
+      "name": "MONTO (%) DE  COTIZACION"
+    },
+    {
+      "name": "OBLIGATORIEDAD DE LA AFILIACIONES"
+    },
+    {
+      "name": "R\u00c9GIMEN SOLIDARIO DE PRIMA MEDIA CON PRESTACI\u00d3N DEFINIDA"
+    },
+    {
+      "name": "TERMINOS PARA RESOLVER SOLICITUDES DE PENSIONES"
+    },
+    {
+      "name": "SISTEMA GENERAL DE RIESGOS LABORALES LEY 1562  DE 2012"
+    },
+    {
+      "name": "CONCILIACIONES"
+    },
+    {
+      "name": "CONSTATACI\u00d3N DE CESE DE ACTIVIDADES"
+    },
+    {
+      "name": "COPIAS DE CONVENCIONES COLECTIVAS, PACTOS COLECTIVOS Y LAUDOS ARBITRAL"
+    },
+    {
+      "name": "DEP\u00d3SITOS DE FUNDACIONES DE ORGANIZACIONES SINDICALES Y DE CAMBIO DE J"
+    },
+    {
+      "name": "PRESENTACIONES PERSONALES"
+    },
+    {
+      "name": "REPARTO DE DEMANDAS."
+    },
+    {
+      "name": "CERTIFICACIONES\/PAZ Y SALVO CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO NO TITULAR DE CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA  > 90 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 1 - 30 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 31 - 60 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 31 -89 D\u00cdASC"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 61 - 90 D\u00cdAS"
+    },
+    {
+      "name": "CONSULTAS CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COPIA DE COMUNICACI\u00d3N CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS CR\u00c9DITO F\u00c1CIL - NO COMPROBANTE DE PAGO"
+    },
+    {
+      "name": "RADICACIONES CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "RECLAMOS CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COPIA COMUNICACI\u00d3N ENERG\u00cdA"
+    },
+    {
+      "name": "DISPONIBILIDAD"
+    },
+    {
+      "name": "DUPLICADO"
+    },
+    {
+      "name": "ENTREGA DE RESPUESTA"
+    },
+    {
+      "name": "FACTURA"
+    },
+    {
+      "name": "MEDIDOR"
+    },
+    {
+      "name": "MODIFICACIONES COMERCIALES"
+    },
+    {
+      "name": "NOTIFICACI\u00d3N PERSONAL"
+    },
+    {
+      "name": "NOTIFICACI\u00d3N POR AVISO"
+    },
+    {
+      "name": "NORMAS APLICABLES AL REGIMEN DE TRANSICION"
+    },
+    {
+      "name": "PENSION SOBREVIVIENTE"
+    },
+    {
+      "name": "PROGRAMA COLOMBIA MAYOR"
+    },
+    {
+      "name": "R\u00c9GIMEN DE AHORRO INDIVIDUAL CON SOLIDARIDAD"
+    },
+    {
+      "name": "REQUISITOS PARA OBTENER LA PENSION DE VEJEZ"
+    },
+    {
+      "name": "REQUISITOS PARA PENSION DE VEJEZ"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE RECLAMACIONES LABORALES"
+    },
+    {
+      "name": "PRESENTACI\u00d3N DE MEMORIALES JURISDICCI\u00d3N CIVIL, LABORAL, FAMILIA Y ADMI"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONSULTAS GENERALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "BEPS"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE EXISTENCIA DE ORGANIZACIONES SINDICALES"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE NO EXISTENCIA DE RECLAMACIONES LABORALES( PAZ Y SALVO"
+    },
+    {
+      "name": "RADICACI\u00d3N DE CORRESPONDENCIA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DE CORRESPONDENCIA"
+    },
+    {
+      "name": "CERTIFICADO DE EXISTENCIA Y REPRESENTACI\u00d3N LEGAL"
+    },
+    {
+      "name": "CERTIFICADO RUP"
+    },
+    {
+      "name": "MATR\u00cdCULA PERSONA NATURAL"
+    },
+    {
+      "name": "MATR\u00cdCULA MERCANTIL DE ESTABLECIMIENTO DE COMERCIO"
+    },
+    {
+      "name": "RENOVACI\u00d3N DE MATR\u00cdCULA"
+    },
+    {
+      "name": "RELIQUIDACI\u00d3N DE MATR\u00cdCULA  MERCANTIL"
+    },
+    {
+      "name": "CORRECCI\u00d3N DE CERTIFICADOS"
+    },
+    {
+      "name": "INMOVILIZACI\u00d3N DE CESANT\u00cdAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N PARA CR\u00c9DITO AVC Y CESANT\u00cdAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N PARA RETIRO AVC Y CESANT\u00cdAS (FORMULARIO)"
+    },
+    {
+      "name": "INFORMACI\u00d3N DE AFILIACI\u00d3N O TRASLADO DE AVC  Y CESANT\u00cdAS"
+    },
+    {
+      "name": "EXTRACTO DE CESANT\u00cdAS"
+    },
+    {
+      "name": "EXTRACTO AVC (AHORRO VOLUNTARIO CONTRACTUAL)"
+    },
+    {
+      "name": "CERTIFICADO DE AFILIACI\u00d3N AVC  Y CESANT\u00cdAS"
+    },
+    {
+      "name": "AFILIACI\u00d3N POR AVC (AHORRO VOLUNTARIO CONTRACTUAL)"
+    },
+    {
+      "name": "AFILIACI\u00d3N POR CESANT\u00cdAS"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO HIPOTECARIO POR AHORRO VOLUNTARIO CONTRACTUAL"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO HIPOTECARIO POR CESANT\u00cdAS"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO EDUCATIVO POR CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIRO PARCIALES CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIROS DEFINITIVOS CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIRO AHORRO VOLUNTARIO CONTRACTUAL"
+    },
+    {
+      "name": "INMOVILIZACI\u00d3N DE CESANT\u00cdAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N PARA CR\u00c9DITO AVC Y CESANT\u00cdAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N PARA RETIRO AVC Y CESANT\u00cdAS (FORMULARIO)"
+    },
+    {
+      "name": "INFORMACI\u00d3N DE AFILIACI\u00d3N O TRASLADO DE AVC  Y CESANT\u00cdAS"
+    },
+    {
+      "name": "EXTRACTO DE CESANT\u00cdAS"
+    },
+    {
+      "name": "EXTRACTO AVC (AHORRO VOLUNTARIO CONTRACTUAL)"
+    },
+    {
+      "name": "CERTIFICADO DE AFILIACI\u00d3N AVC  Y CESANT\u00cdAS"
+    },
+    {
+      "name": "AFILIACI\u00d3N POR AVC (AHORRO VOLUNTARIO CONTRACTUAL)"
+    },
+    {
+      "name": "AFILIACI\u00d3N POR CESANT\u00cdAS"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO HIPOTECARIO POR AHORRO VOLUNTARIO CONTRACTUAL"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO HIPOTECARIO POR CESANT\u00cdAS"
+    },
+    {
+      "name": "SOLICITUD CR\u00c9DITO EDUCATIVO POR CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIRO PARCIALES CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIROS DEFINITIVOS CESANT\u00cdAS"
+    },
+    {
+      "name": "RETIRO AHORRO VOLUNTARIO CONTRACTUAL"
+    },
+    {
+      "name": "APROBACI\u00d3N DEL PROGRAMA DE AUTORREGULACI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE EXPORTACI\u00d3N E IMPORTACI\u00d3N DE FLORA SILVESTRE"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N EN MATERIA DE REVISI\u00d3N DE GASES A CDA\u00b4S"
+    },
+    {
+      "name": "CLASIFICACI\u00d3N DE IMPACTO AMBIENTAL PARA PAGO DEL IMPUESTO PREDIAL"
+    },
+    {
+      "name": "CLASIFICACI\u00d3N IMPACTO AMBIENTAL PARA TR\u00c1MITE LICENCIAS DE CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "CONCEPTO AMBIENTAL PARA PLANES DE IMPLANTACI\u00d3N"
+    },
+    {
+      "name": "EXPEDICI\u00d3N DEL CERTIFICADO DE ESTADO DE CONSERVACI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "GESTI\u00d3N AMBIENTAL EMPRESARIAL EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "EVALUACI\u00d3N DE PMA Y\/O PMRRA EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N COMO ACOPIADOR PRIMARIO DE ACEITES USADOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N EN EL REGISTRO DE GENERADORES DE RESIDUOS PELIGROSOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N EN EL REGISTRO \u00daNICO AMBIENTAL SECTOR MANUFACTURERO"
+    },
+    {
+      "name": "SOLICITUD DE INSCRIPCI\u00d3N DEL DEPARTAMENTO DE GESTI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N AL ECO DIRECTORIO EMPRESARIAL EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N AL ECO DIRECTORIO EMPRESARIAL EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N AMB. INCENTIVO EXENCI\u00d3N IVA ACREDITACI\u00d3N INVERSI\u00d3N AMB."
+    },
+    {
+      "name": "CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "CONCESI\u00d3N DE AGUAS SUPERFICIALES EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE APROVECHAMIENTO DE FAUNA SILVESTRE EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE EMISI\u00d3N PARA FUENTES FIJAS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE OCUPACI\u00d3N DE CAUCE O DEP\u00d3SITO DE AGUA"
+    },
+    {
+      "name": "PERMISO DE VERTIMIENTOS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N TALA, PODA, TRASL DE ARBOLADO MANEJO EN ESPACIO P\u00daB-PRIV"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TALA, PODA, TRASLADO DE ARBOLADO OBRA ESPACIO PRIVADO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TALA, PODA, TRASL DE ARBOLADO POR OBRA ESPACIO PUBLICO"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL MURALES ART\u00cdSTICOS SIN PUBLICIDAD"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLA COMERCIAL TUBULAR"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLAS DE OBRA"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLAS INSTITUCIONALES"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL PARA VEH\u00cdCULOS TRANSPORTE P\u00daBLICO"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL VEH\u00cdCULOS TRANSPORTEN PRODUCTOS"
+    },
+    {
+      "name": "REGISTRO DE VERTIMIENTOS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "SOLICITUD DE REGISTRO DE MOVILIZADOR DE ACEITES USADOS"
+    },
+    {
+      "name": "DENUNCIAS BUSES CHIMENEA EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "QUEJAS POR TENENCIA Y COMERCIALIZACI\u00d3N ILEGAL DE FAUNA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD DE CHARLAS DE SENSIBILIZACI\u00d3N SOBRE FAUNA SILVESTRE"
+    },
+    {
+      "name": "RECUPERACI\u00d3N DE ANIMALES SILVESTRES EXTRAVIADOS EN LA CIUDAD"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N EN MATERIA DE REVISI\u00d3N DE GASES A CDA\u00b4S"
+    },
+    {
+      "name": "CLASIFICACI\u00d3N DE IMPACTO AMBIENTAL PARA PAGO DEL IMPUESTO PREDIAL"
+    },
+    {
+      "name": "CLASIFICACI\u00d3N DE IMPACTO AMBIENTAL PARA TR\u00c1MITE LICENCIAS CONSTRUCCI\u00d3N"
+    },
+    {
+      "name": "CONCEPTO AMBIENTAL PARA PLANES DE IMPLANTACI\u00d3N EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "EXPEDICI\u00d3N DEL CERTIFICADO DE ESTADO DE CONSERVACI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "GESTI\u00d3N AMBIENTAL EMPRESARIAL EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "EVALUACI\u00d3N DE PMA Y\/O PMRRA EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N COMO ACOPIADOR PRIMARIO DE ACEITES USADOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N REGISTRO DE GENERADORES DE RESIDUOS O DESECHOS PELIGROSOS"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N REGISTRO \u00daNICO AMBIENTAL RUA, PARA EL SECTOR MANUFACTURERO"
+    },
+    {
+      "name": "SOLICITUD DE INSCRIPCI\u00d3N DEL DEPARTAMENTO DE GESTI\u00d3N AMBIENTAL"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N AL ECO DIRECTORIO EMPRESARIAL EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N AMB. INCENTIVO EXENCI\u00d3N IVA ACREDITACI\u00d3N INVERSI\u00d3N AMB."
+    },
+    {
+      "name": "CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "CONCESI\u00d3N DE AGUAS SUPERFICIALES EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE APROVECHAMIENTO DE FAUNA SILVESTRE EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE EMISI\u00d3N PARA FUENTES FIJAS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "PERMISO DE OCUPACI\u00d3N DE CAUCE O DEP\u00d3SITO DE AGUA"
+    },
+    {
+      "name": "PERMISO DE VERTIMIENTOS EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "AUTORIZACION TALA, PODA, TRASL. ARBOLADO MANEJO EN ESPACIO P\u00daB.\/PRIV."
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TALA, PODA, TRASLADO DE ARBOLADO OBRA ESPACIO PRIVADO"
+    },
+    {
+      "name": "AUTORIZACI\u00d3N DE TALA, PODA, TRASLADO DE ARBOLADO OBRA ESPACIO PUBLICO"
+    },
+    {
+      "name": "PR\u00d3RROGA DE CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS VIGENTE"
+    },
+    {
+      "name": "SALVOCONDUCTO PARA LA MOVILIZACI\u00d3N DE FLORA Y ARBOLADO URBANO"
+    },
+    {
+      "name": "SOLICITUD DE MODIFICACI\u00d3N DE CONCESI\u00d3N DE AGUAS SUBTERR\u00c1NEAS"
+    },
+    {
+      "name": "SOLICITUD EVALUACI\u00d3N Y APROBACI\u00d3N DEL PMA Y\/O EL PLAN DE MANEJO, RECUP"
+    },
+    {
+      "name": "SOLICITUD EXP. SALVOCONDUCTO MOVILIZACI\u00d3N ESPEC\u00cdMENES FAUNA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD OTORG., MODIF. O RENOV. PERMISOS APROVECHAMIENTO FAUNA SILV."
+    },
+    {
+      "name": "SOLICITUD PERMISO DE EXPLORACI\u00d3N AGUAS SUBTERR\u00c1NEAS."
+    },
+    {
+      "name": "SOLICITUD VERIFICACI\u00d3N EXPORT. O IMPORT. ESPEC\u00cdMENES FAUNA SILVESTRE"
+    },
+    {
+      "name": "VERIFICACI\u00d3N PARA EXPORTAR O IMPORTAR ESPEC\u00cdMENES DE FLORA SILVESTRE"
+    },
+    {
+      "name": "SOLICITUD DE OTORG\/MODIF\/RENOV. PERMISOS INVESTIGACI\u00d3N CIENT. EN FAUNA"
+    },
+    {
+      "name": "VISITAS AULAS AMBIENTALES EN EL DISTRITO CAPITAL"
+    },
+    {
+      "name": "REGISTRO DE LIBRO DE OPERACIONES DE INDUSTRIAS FORESTALES"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXT. VISUAL EN MOVIMIENTO A TRAV\u00c9S DE PANTALLAS"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA AVISOS DIVISIBLES"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA AVISOS EN FACHADA"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL AVISOS SEPARADOS DE FACHADA"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXT. VISUAL PARA GLOBO ANCLADO, ELEMENTO INFLABLE"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA MOBILIARIO URBANO"
+    },
+    {
+      "name": "REGISTRO PUBLICIDAD EXTERIOR VISUAL MURALES ART\u00cdSTICOS SIN PUBLICIDAD"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLA COMERCIAL TUBULAR"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLAS DE OBRA"
+    },
+    {
+      "name": "REGISTRO DE PUBLICIDAD EXTERIOR VISUAL PARA VALLAS INSTITUCIONALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N Y AFILIACI\u00d3N SISTEMA GENERAL DE SEGURIDAD SOCIAL EN SALUD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PENSI\u00d3N DE INVALIDEZ"
+    },
+    {
+      "name": "CONSULTA DE ESTADO DE AFILIACI\u00d3N EPS SUBSIDIADA O CONTRIBUTIVA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N LIBRE ELECCI\u00d3N DE ENTIDAD PROMOTORA DE SALUD SUBSIDIADA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACION NOVEDADES\/PROCEDIMIENTOS USUARIOS AFILIADOS AL R\u00c9G. SUB."
+    },
+    {
+      "name": "INFORMACION SOBRE TRASLADOS DE EPS SUBSIDIADA"
+    },
+    {
+      "name": "ACREDITACI\u00d3N INVERSI\u00d3N AMBIENTAL PARA LA DEDUCCI\u00d3N DE LA RENTA L\u00cdQUIDA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE GRATUIDAD EN SALUD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CONSULTA DE ESTADO DE AFILIACI\u00d3N EPS SUBSIDIADA O CONTRIBUTIVA"
+    },
+    {
+      "name": "INFORMACI\u00d3N LIBRE ELECCI\u00d3N DE ENTIDAD PROMOTORA DE SALUD SUBSIDIADA"
+    },
+    {
+      "name": "INFORMACION NOVEDADES\/PROCEDIMIENTOS USUARIOS AFILIADOS AL R\u00c9G. SUB."
+    },
+    {
+      "name": "INFORMACION SOBRE TRASLADOS DE EPS SUBSIDIADA"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE GRATUIDAD EN SALUD"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE LA L\u00cdNEA 195 DEL DERECHO A LA SALUD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ENTREGA DE VOLANTE DE PAGO POR LA IMPOSICI\u00d3N DE UN COMPARENDO"
+    },
+    {
+      "name": "ENTREGA DE VOLANTE DE PAGO POR LA IMPOSICI\u00d3N DE UN COMPARENDO"
+    },
+    {
+      "name": "ACTUALIZACION DE DATOS BASICOS DEL AFILIADO"
+    },
+    {
+      "name": "ACTUALIZACION DE DATOS DE UBICACI\u00d3N DEL AFILIADO"
+    },
+    {
+      "name": "NOVEDAD DE RETIRO RETROACTIVO"
+    },
+    {
+      "name": "RECEPCION DE ACLARACI\u00d3N DE CUENTAS"
+    },
+    {
+      "name": "SOLICITUD DE CORRECCI\u00d3N HISTORIA LABORAL"
+    },
+    {
+      "name": "AFILIACI\u00d3N AL R\u00c9GIMEN DE PRIMA MEDIA"
+    },
+    {
+      "name": "RETRACTO Y ANULACI\u00d3N DE AFILIACI\u00d3N"
+    },
+    {
+      "name": "TRASLADOS DEL R\u00c9GIMEN PENSIONAL"
+    },
+    {
+      "name": "PAGOS EN EL EXTERIOR"
+    },
+    {
+      "name": "CANCELACI\u00d3N AFILIACI\u00d3N, PR\u00c9STAMOS A ASOCIACI\u00d3N Y CAJA DE COMPENSACI\u00d3N"
+    },
+    {
+      "name": "ESCOLARIDAD Y MODIFICACI\u00d3N CONDICI\u00d3N"
+    },
+    {
+      "name": "MODIFICACI\u00d3N DE DATOS B\u00c1SICOS Y DE IDENTIFICACI\u00d3N"
+    },
+    {
+      "name": "PAGO A BENEFICIARIOS - VALORES GIRADOS DESPU\u00c9S DEL FALLECIMIENTO"
+    },
+    {
+      "name": "PAGO A HEREDEROS MESADAS NO COBRADAS ANTES DEL FALLECIMIENTO"
+    },
+    {
+      "name": "REACTIVACI\u00d3N DE LA PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "REINGRESO DE LA PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "REINTEGROS POR MESADAS NO COBRADAS E INDEMNIZACI\u00d3N SUSTITUTIVA"
+    },
+    {
+      "name": "RETIRO PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "TRASLADO ENTIDAD PRESTADORA DE SALUD  Y DEVOLUCI\u00d3N APORTES EN SALUD"
+    },
+    {
+      "name": "TRASLADO DE CUENTAS DE PAGO DE PENSI\u00d3N"
+    },
+    {
+      "name": "INDEMNIZACI\u00d3N SUSTITUTIVA PENSI\u00d3N DE VEJEZ, INVALIDEZ O SOBREVIVIENTE"
+    },
+    {
+      "name": "PENSI\u00d3N DE INVALIDEZ"
+    },
+    {
+      "name": "PENSI\u00d3N DE SOBREVIVIENTES Y SUSTITUCI\u00d3N PENSIONAL"
+    },
+    {
+      "name": "PENSI\u00d3N DE VEJEZ"
+    },
+    {
+      "name": "PENSIONES ESPECIALES DE VEJEZ"
+    },
+    {
+      "name": "RECONOCIMIENTO DE AUXILIO FUNERARIO"
+    },
+    {
+      "name": "RECURSOS"
+    },
+    {
+      "name": "CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL EN PRIMERA OPORTUNIDAD"
+    },
+    {
+      "name": "INCAPACIDADES SUPERIORES A 180 DIAS"
+    },
+    {
+      "name": "REVISION DEL ESTADO DE INVALIDEZ"
+    },
+    {
+      "name": "TUTELAS Y DEMANDAS JUDICIALES"
+    },
+    {
+      "name": "PETICIONES, QUEJAS, RECLAMOS, SUGERENCIAS"
+    },
+    {
+      "name": "DEFENSOR DEL CONSUMIDOR FINANCIERO"
+    },
+    {
+      "name": "CALCULOS ACTUARIALES"
+    },
+    {
+      "name": "DEVOLUCION DE APORTES A TERCEROS"
+    },
+    {
+      "name": "TTITULOS PENSIONALES"
+    },
+    {
+      "name": "NOMINA"
+    },
+    {
+      "name": "FORMULARIOS"
+    },
+    {
+      "name": "CONTULTA DE RESOLUCIONES"
+    },
+    {
+      "name": "ACTUALIZACION DE DATOS BASICOS DEL AFILIADO"
+    },
+    {
+      "name": "ACTUALIZACION DE DATOS DE UBICACI\u00d3N DEL AFILIADO"
+    },
+    {
+      "name": "NOVEDAD DE RETIRO RETROACTIVO"
+    },
+    {
+      "name": "RECEPCION DE ACLARACI\u00d3N DE CUENTAS"
+    },
+    {
+      "name": "SOLICITUD DE CORRECCI\u00d3N HISTORIA LABORAL"
+    },
+    {
+      "name": "AFILIACI\u00d3N AL R\u00c9GIMEN DE PRIMA MEDIA"
+    },
+    {
+      "name": "RETRACTO Y ANULACI\u00d3N DE AFILIACI\u00d3N"
+    },
+    {
+      "name": "TRASLADOS DEL R\u00c9GIMEN PENSIONAL"
+    },
+    {
+      "name": "PAGOS EN EL EXTERIOR"
+    },
+    {
+      "name": "NOVEDADES"
+    },
+    {
+      "name": "CANCELACI\u00d3N AFILIACI\u00d3N, PR\u00c9STAMOS A ASOCIACI\u00d3N Y CAJA DE COMPENSACI\u00d3N"
+    },
+    {
+      "name": "ESCOLARIDAD Y MODIFICACI\u00d3N CONDICI\u00d3N"
+    },
+    {
+      "name": "MODIFICACI\u00d3N DE DATOS B\u00c1SICOS Y DE IDENTIFICACI\u00d3N"
+    },
+    {
+      "name": "PAGO A BENEFICIARIOS - VALORES GIRADOS DESPU\u00c9S DEL FALLECIMIENTO"
+    },
+    {
+      "name": "PAGO A HEREDEROS MESADAS NO COBRADAS ANTES DEL FALLECIMIENTO"
+    },
+    {
+      "name": "REACTIVACI\u00d3N DE LA PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "REINGRESO DE LA PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "REINTEGROS POR MESADAS NO COBRADAS E INDEMNIZACI\u00d3N SUSTITUTIVA"
+    },
+    {
+      "name": "RETIRO PENSI\u00d3N Y\/O BENEFICIARIO INCREMENTO"
+    },
+    {
+      "name": "TRASLADO ENTIDAD PRESTADORA DE SALUD  Y DEVOLUCI\u00d3N APORTES EN SALUD"
+    },
+    {
+      "name": "TRASLADO DE CUENTAS DE PAGO DE PENSI\u00d3N"
+    },
+    {
+      "name": "INDEMNIZACI\u00d3N SUSTITUTIVA PENSI\u00d3N DE VEJEZ, INVALIDEZ O SOBREVIVIENTE"
+    },
+    {
+      "name": "PENSI\u00d3N DE SOBREVIVIENTES Y SUSTITUCI\u00d3N PENSIONAL"
+    },
+    {
+      "name": "PENSI\u00d3N DE VEJEZ"
+    },
+    {
+      "name": "PENSIONES ESPECIALES DE VEJEZ"
+    },
+    {
+      "name": "RECONOCIMIENTO DE AUXILIO FUNERARIO"
+    },
+    {
+      "name": "RECURSOS"
+    },
+    {
+      "name": "CALIFICACION DE PERDIDA DE CAPACIDAD LABORAL EN PRIMERA OPORTUNIDAD"
+    },
+    {
+      "name": "INCAPACIDADES SUPERIORES A 180 DIAS"
+    },
+    {
+      "name": "REVISION DEL ESTADO DE INVALIDEZ"
+    },
+    {
+      "name": "TUTELAS Y DEMANDAS JUDICIALES"
+    },
+    {
+      "name": "PETICIONES, QUEJAS, RECLAMOS, SUGERENCIAS"
+    },
+    {
+      "name": "DEFENSOR DEL CONSUMIDOR FINANCIERO"
+    },
+    {
+      "name": "CALCULOS ACTUARIALES"
+    },
+    {
+      "name": "DEVOLUCION DE APORTES A TERCEROS"
+    },
+    {
+      "name": "RECUPERACION DE SEMANAS"
+    },
+    {
+      "name": "TTITULOS PENSIONALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "VENTA DE TARJETA BASICA Y PERSONALIZACI\u00d3N"
+    },
+    {
+      "name": "REPOSICION TARJETA  PERDIDA O ROBO"
+    },
+    {
+      "name": "SOLICITUD TRASLADO - RECUPERACION SALDO"
+    },
+    {
+      "name": "RECARGA TARJETA TULLAVE"
+    },
+    {
+      "name": "CAMBIO DE TARJETA INCENTIVO SISBEN"
+    },
+    {
+      "name": "SUBSIDIO DE TRANSPORTE PARA PERSONAS CON DISCAPACIDAD -\u00a0 SITP"
+    },
+    {
+      "name": "CONSULTA DE PUNTOS DE RECARGA Y MAPA DEL SITP"
+    },
+    {
+      "name": "CLASIFICACION DE TARJETAS\u00a0 DEL SISTEMA HORARIOS\u00a0 Y\u00a0 TARIFAS"
+    },
+    {
+      "name": "INFORMACION DE PUNTOS DE PERSONALIZACI\u00d3N"
+    },
+    {
+      "name": "ATENCION DE PETICIONES QUEJAS Y RECLAMOS"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL\u00a0 DEL SISTEMA TRANSMILENIO"
+    },
+    {
+      "name": "SISTEMA INTEGRADO DE TRANSPORTE - SITP"
+    },
+    {
+      "name": "VENTA DE TARJETA BASICA Y PERSONALIZACI\u00d3N"
+    },
+    {
+      "name": "REPOSICION TARJETA  PERDIDA O ROBO"
+    },
+    {
+      "name": "SOLICITUD TRASLADO - RECUPERACION SALDO"
+    },
+    {
+      "name": "RECARGA TARJETA TULLAVE"
+    },
+    {
+      "name": "CONSULTA DE PUNTOS DE RECARGA Y MAPA DEL SITP"
+    },
+    {
+      "name": "CLASIFICACION DE TARJETAS\u00a0 DEL SISTEMA HORARIOS\u00a0 Y\u00a0 TARIFAS"
+    },
+    {
+      "name": "INFORMACION DE PUNTOS DE PERSONALIZACI\u00d3N"
+    },
+    {
+      "name": "ATENCION DE PETICIONES QUEJAS Y RECLAMOS"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL\u00a0 DEL SISTEMA TRANSMILENIO"
+    },
+    {
+      "name": "SISTEMA INTEGRADO DE TRANSPORTE - SITP"
+    },
+    {
+      "name": "INCENTIVO TARIFARIO DEL SITP PARA POBLACI\u00d3N SISBEN"
+    },
+    {
+      "name": "SOLICITUD TARJETA INCENTIVO"
+    },
+    {
+      "name": "SOLICITUD ENTREGA TARJETA INCENTIVO"
+    },
+    {
+      "name": "MATR\u00cdCULAS Y SUBSIDIOS"
+    },
+    {
+      "name": "EDUCACI\u00d3N MEDIA Y SUPERIOR"
+    },
+    {
+      "name": "LEGALIZACI\u00d3N, REGISTRO Y CERTIFICADOS"
+    },
+    {
+      "name": "MATR\u00cdCULAS Y SUBSIDIOS"
+    },
+    {
+      "name": "EDUCACI\u00d3N MEDIA Y SUPERIOR"
+    },
+    {
+      "name": "LEGALIZACI\u00d3N, REGISTRO Y CERTIFICADOS"
+    },
+    {
+      "name": "MATR\u00cdCULAS Y SUBSIDIOS"
+    },
+    {
+      "name": "EDUCACI\u00d3N MEDIA Y SUPERIOR"
+    },
+    {
+      "name": "LEGALIZACI\u00d3N, REGISTRO Y CERTIFICADOS"
+    },
+    {
+      "name": "ESCALAF\u00d3N"
+    },
+    {
+      "name": "CERTIFICACIONES"
+    },
+    {
+      "name": "COMISIONES, LICENCIAS E INCAPACIDADES"
+    },
+    {
+      "name": "NOVEDADES"
+    },
+    {
+      "name": "FONDO PRESTACIONAL"
+    },
+    {
+      "name": "OTROS"
+    },
+    {
+      "name": "CERTIFICACIONES"
+    },
+    {
+      "name": "COMISIONES Y LICENCIAS"
+    },
+    {
+      "name": "CESANT\u00cdAS"
+    },
+    {
+      "name": "NOVEDADES"
+    },
+    {
+      "name": "OTROS"
+    },
+    {
+      "name": "LICENCIAS DE FUNCIONAMIENTO"
+    },
+    {
+      "name": "DOTACIONES"
+    },
+    {
+      "name": "OTROS"
+    },
+    {
+      "name": "ESCALAF\u00d3N"
+    },
+    {
+      "name": "CERTIFICACIONES"
+    },
+    {
+      "name": "COMISIONES, LICENCIAS E INCAPACIDADES"
+    },
+    {
+      "name": "SUBSIDIO DE TRANSPORTE PARA PERSONAS CON DISCAPACIDAD -\u00a0 SITP"
+    },
+    {
+      "name": "INCENTIVO TARIFARIO DEL SITP PARA POBLACI\u00d3N SISBEN"
+    },
+    {
+      "name": "SOLICITUD TARJETA INCENTIVO"
+    },
+    {
+      "name": "SOLICITUD ENTREGA TARJETA INCENTIVO"
+    },
+    {
+      "name": "FONDO PRESTACIONAL"
+    },
+    {
+      "name": "OTROS"
+    },
+    {
+      "name": "COMISIONES Y LICENCIAS"
+    },
+    {
+      "name": "CESANT\u00cdAS"
+    },
+    {
+      "name": "LICENCIAS DE FUNCIONAMIENTO"
+    },
+    {
+      "name": "DOTACIONES"
+    },
+    {
+      "name": "EXPEDICI\u00d3N ESTADOS DE CUENTA (PAZ Y SALVOS)"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "ESTADO DE CUENTA INFORMATIVO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPEDICI\u00d3N ESTADOS DE CUENTA (PAZ Y SALVOS)"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "ESTADO DE CUENTA INFORMATIVO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "VIGENCIA"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO COBRO PROPIEDAD"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "VIGENCIA"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO COBRO PROPIEDAD"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "VIGENCIA"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO COBRO PROPIEDAD"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "VIGENCIA"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "A\u00d1OS ANTERIORES"
+    },
+    {
+      "name": "RELACIONES DE PAGO"
+    },
+    {
+      "name": "FACILIDADES DE PAGO"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PROPIEDAD"
+    },
+    {
+      "name": "MASIVO COBRO PROPIEDAD"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N RIT"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO COBRO PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INSCRIPCI\u00d3N RIT"
+    },
+    {
+      "name": "NOVEDADES RIT"
+    },
+    {
+      "name": "ESTADO DE CUENTA"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N RIT"
+    },
+    {
+      "name": "MEDIOS MAGNETICOS"
+    },
+    {
+      "name": "PROYECTO DE CORRECCI\u00d3N"
+    },
+    {
+      "name": "MASIVO FISCALIZACI\u00d3N PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO LIQUIDACI\u00d3N PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO COBRO PRODUCCI\u00d3N"
+    },
+    {
+      "name": "MASIVO SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "FINANCIAMIENTO BANCA CAPITAL"
+    },
+    {
+      "name": "FINANCIAMIENTO A INICIATIVAS Y ACTIVIDADES EMPRESARIALES EXISTENTES"
+    },
+    {
+      "name": "ACOMPA\u00d1AMIENTO EMPRESARIAL BANCA CAPITAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SISTEMA DE INFORMACI\u00d3N PARA EL TRABAJO  - VITRINA VIRTUAL BOGOT\u00c1 TRABA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CREACI\u00d3N Y FORTALECIMIENTO EMPRESARIAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INFORMACI\u00d3N Y CONECTIVIDAD"
+    },
+    {
+      "name": "GESTI\u00d3N FINANCIERA Y FORTALECIMIENTO ORGANIZACIONAL"
+    },
+    {
+      "name": "GESTI\u00d3N DE CALIDAD E INOCUIDAD DE LOS ALIMENTOS"
+    },
+    {
+      "name": "LOG\u00cdSTICA E INFRAESTRUCTURA"
+    },
+    {
+      "name": "REDES Y GESTI\u00d3N COMERCIAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "FINANCIAMIENTO BANCA CAPITAL"
+    },
+    {
+      "name": "FINANCIAMIENTO A INICIATIVAS Y ACTIVIDADES EMPRESARIALES EXISTENTES"
+    },
+    {
+      "name": "ACOMPA\u00d1AMIENTO EMPRESARIAL BANCA CAPITAL"
+    },
+    {
+      "name": "SISTEMA DE INFORMACI\u00d3N PARA EL TRABAJO  - VITRINA VIRTUAL BOGOT\u00c1 TRABA"
+    },
+    {
+      "name": "CREACI\u00d3N Y FORTALECIMIENTO EMPRESARIAL"
+    },
+    {
+      "name": "INFORMACI\u00d3N Y CONECTIVIDAD"
+    },
+    {
+      "name": "GESTI\u00d3N FINANCIERA Y FORTALECIMIENTO ORGANIZACIONAL"
+    },
+    {
+      "name": "GESTI\u00d3N DE CALIDAD E INOCUIDAD DE LOS ALIMENTOS"
+    },
+    {
+      "name": "LOG\u00cdSTICA E INFRAESTRUCTURA"
+    },
+    {
+      "name": "REDES Y GESTI\u00d3N COMERCIAL"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SERVICIO NO SOLICITADO"
+    },
+    {
+      "name": "SOLICITUD DE COPIA DE DOCUMENTOS DE ALTA"
+    },
+    {
+      "name": "SOLICITUD INSTALACI\u00d3N DE ACOMET. MONTAJE MD"
+    },
+    {
+      "name": "SOLICITUD VISITA  INTERVENTOR\u00cdA  MONTAJE  MD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CAMBIO DE USO"
+    },
+    {
+      "name": "INCONF. CON COBRO DE REP. EN CM O ACOMET."
+    },
+    {
+      "name": "INCONFORMIDAD CON COBRO DE RECONEXI\u00d3N"
+    },
+    {
+      "name": "INF. GENERAL PROCESO CIERRE Y RECONEX."
+    },
+    {
+      "name": "INF. GRAL DEL PROCESO DE  REP. DEL CM"
+    },
+    {
+      "name": "NO PASA GAS"
+    },
+    {
+      "name": "REPARACI\u00d3N EN CM Y ACOMETIDA"
+    },
+    {
+      "name": "REPOSICI\u00d3N DE MD POR ROBO"
+    },
+    {
+      "name": "SUSP. TEMP \u00d2 DEFINITIVA DEL SERVICIO"
+    },
+    {
+      "name": "TRASLADO DE CM, CON-SIN OBRA CIVIL EJECUTADA"
+    },
+    {
+      "name": "INF. PROCESO DE REP. Y MTO DE RED"
+    },
+    {
+      "name": "RESANES DE ACOMETIDA"
+    },
+    {
+      "name": "TRASLADO DE RED DE POLIETILENO"
+    },
+    {
+      "name": "INF. GENERAL DEL PROCESO  X ANOMAL"
+    },
+    {
+      "name": "CLIENTE CESADOS Y AUTO REINSTALADO"
+    },
+    {
+      "name": "DENUNCIA MANIPULACI\u00d3N CM"
+    },
+    {
+      "name": "RESPUESTA CLIENTE PROCESO C Y R"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CAMBIO DATOS DE CORRESPONDENCIA"
+    },
+    {
+      "name": "CAMBIO DE DIRECCI\u00d3N"
+    },
+    {
+      "name": "CAMBIO DE ESTRATO"
+    },
+    {
+      "name": "CAMBIO DE TITULAR- CORRECCI\u00d3N"
+    },
+    {
+      "name": "LEY HABEAS DATA"
+    },
+    {
+      "name": "CERTIFICACIONES"
+    },
+    {
+      "name": "INF. GENERAL ACTUALIZACI\u00d3N DATOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "DESCUENTO TEMPORAL POR REF. EN TR\u00c1MITE"
+    },
+    {
+      "name": "INCONF. COBRO DE RECONEX X FACTURA NO LLEG\u00d3"
+    },
+    {
+      "name": "INCONF. POR QUE NO RECIBI\u00d3 FACTURA"
+    },
+    {
+      "name": "INCONF. X  NO RECIBI\u00d3 FACTURA- FACTURAC BLOQU"
+    },
+    {
+      "name": "INF. FECHAS DE PAGO"
+    },
+    {
+      "name": "INF. GENERAL DE LA FACTURA"
+    },
+    {
+      "name": "INF.E INCONF. TARIFA LIQUIDADA"
+    },
+    {
+      "name": "SOL. FINANCIACI\u00d3N CONCEPTOS FACTURADOS"
+    },
+    {
+      "name": "FINANCIACI\u00d3N DEUDA"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE DEUDA"
+    },
+    {
+      "name": "INCONF. CONSUMO FACTURADO"
+    },
+    {
+      "name": "INF. GENERAL DE PROCESO DE LECTURA"
+    },
+    {
+      "name": "LECTURA ERRADA"
+    },
+    {
+      "name": "DEV. DINERO X PAG ERRADO-SALDO A FAVOR"
+    },
+    {
+      "name": "INCONF.COBRO DE RECONEX X NO REGISTRO DE PAGO"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL PROCESO"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N O ABONO A CR\u00c9DITOS"
+    },
+    {
+      "name": "PAGO REALIZADO Y NO REPORTADO POR LA ENTIDAD"
+    },
+    {
+      "name": "SOL. DE PREPAGO O ABONO A FACTURACI\u00d3N"
+    },
+    {
+      "name": "INF. ESTADO DE UN RECLAMO ANTERIOR"
+    },
+    {
+      "name": "TRASLADO DE CR\u00c9DITO"
+    },
+    {
+      "name": "IMPOSIBILIDAD. EN ACOMET. NO CAUSADAS X DISTRIBUIDORA"
+    },
+    {
+      "name": "INF. GENERAL DE PROCESO DE ALTA"
+    },
+    {
+      "name": "SOLICITUD INSTALACI\u00d3N DE ACOMET. MONTAJE MD"
+    },
+    {
+      "name": "SOLICITUD VISITA  INTERVENTOR\u00cdA  MONTAJE  MD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CAMBIO DE USO"
+    },
+    {
+      "name": "INCONF. CON COBRO DE REP. EN CM O ACOMET."
+    },
+    {
+      "name": "INCONFORMIDAD CON COBRO DE RECONEXI\u00d3N"
+    },
+    {
+      "name": "INF. GENERAL PROCESO CIERRE Y RECONEX."
+    },
+    {
+      "name": "INF. GRAL DEL PROCESO DE  REP. DEL CM"
+    },
+    {
+      "name": "NO PASA GAS"
+    },
+    {
+      "name": "REPARACI\u00d3N EN CM Y ACOMETIDA"
+    },
+    {
+      "name": "REPOSICI\u00d3N DE MD POR ROBO"
+    },
+    {
+      "name": "SUSP. TEMP \u00d2 DEFINITIVA DEL SERVICIO"
+    },
+    {
+      "name": "TRASLADO DE CM, CON-SIN OBRA CIVIL EJECUTADA"
+    },
+    {
+      "name": "INF. PROCESO DE REP. Y MTO DE RED"
+    },
+    {
+      "name": "RESANES DE ACOMETIDA"
+    },
+    {
+      "name": "TRASLADO DE RED DE POLIETILENO"
+    },
+    {
+      "name": "INF. GENERAL DEL PROCESO  X ANOMAL"
+    },
+    {
+      "name": "CLIENTE CESADOS Y AUTO REINSTALADO"
+    },
+    {
+      "name": "DENUNCIA MANIPULACI\u00d3N CM"
+    },
+    {
+      "name": "RESPUESTA CLIENTE PROCESO C Y R"
+    },
+    {
+      "name": "CAMBIO DATOS DE CORRESPONDENCIA"
+    },
+    {
+      "name": "CAMBIO DE DIRECCI\u00d3N"
+    },
+    {
+      "name": "CAMBIO DE ESTRATO"
+    },
+    {
+      "name": "CAMBIO DE TITULAR- CORRECCI\u00d3N"
+    },
+    {
+      "name": "LEY HABEAS DATA"
+    },
+    {
+      "name": "CERTIFICACIONES"
+    },
+    {
+      "name": "INF. GENERAL ACTUALIZACI\u00d3N DATOS"
+    },
+    {
+      "name": "DESCUENTO TEMPORAL POR REF. EN TR\u00c1MITE"
+    },
+    {
+      "name": "INCONF. COBRO DE RECONEX X FACTURA NO LLEG\u00d3"
+    },
+    {
+      "name": "INCONF. POR QUE NO RECIBI\u00d3 FACTURA"
+    },
+    {
+      "name": "INCONF. X  NO RECIBI\u00d3 FACTURA- FACTURAC BLOQU"
+    },
+    {
+      "name": "INF. FECHAS DE PAGO"
+    },
+    {
+      "name": "INF. GENERAL DE LA FACTURA"
+    },
+    {
+      "name": "INF.E INCONF. TARIFA LIQUIDADA"
+    },
+    {
+      "name": "SOL. FINANCIACI\u00d3N CONCEPTOS FACTURADOS"
+    },
+    {
+      "name": "FINANCIACI\u00d3N DEUDA"
+    },
+    {
+      "name": "INFORMACI\u00d3N SOBRE DEUDA"
+    },
+    {
+      "name": "INCONF. CONSUMO FACTURADO"
+    },
+    {
+      "name": "INF. GENERAL DE PROCESO DE LECTURA"
+    },
+    {
+      "name": "LECTURA ERRADA"
+    },
+    {
+      "name": "DEV. DINERO X PAG ERRADO-SALDO A FAVOR"
+    },
+    {
+      "name": "INCONF.COBRO DE RECONEX X NO REGISTRO DE PAGO"
+    },
+    {
+      "name": "INFORMACI\u00d3N GENERAL PROCESO"
+    },
+    {
+      "name": "LIQUIDACI\u00d3N O ABONO A CR\u00c9DITOS"
+    },
+    {
+      "name": "PAGO REALIZADO Y NO REPORTADO POR LA ENTIDAD"
+    },
+    {
+      "name": "SOL. DE PREPAGO O ABONO A FACTURACI\u00d3N"
+    },
+    {
+      "name": "INF. ESTADO DE UN RECLAMO ANTERIOR"
+    },
+    {
+      "name": "TRASLADO DE CR\u00c9DITO"
+    },
+    {
+      "name": "DUPLICADO FACTURA CON COBRO"
+    },
+    {
+      "name": "DUPLICADO NO LLEGO FACTURA"
+    },
+    {
+      "name": "DUPLICADO POR OTROS PROCESOS"
+    },
+    {
+      "name": "TR\u00c1MITE TRASLADO QUIOSCO"
+    },
+    {
+      "name": "ACTA  RTR SIN GRABAR EN TIEMPO EST."
+    },
+    {
+      "name": "FINANCIACI\u00d3N VALOR VISITA RTR"
+    },
+    {
+      "name": "INF. REPARACIONES POR RTR"
+    },
+    {
+      "name": "INF. FECHA VISITA DE RTR-VTR"
+    },
+    {
+      "name": "INF. GENERAL DE RTR-VTR"
+    },
+    {
+      "name": "INFORMACI\u00d3N DATOS FIC - REPARADORA"
+    },
+    {
+      "name": "PROGRAM. DE VISITA RTR-VTR"
+    },
+    {
+      "name": "PRODUCTO SERVIGAS"
+    },
+    {
+      "name": "PRODUCTO ASEGURADORA"
+    },
+    {
+      "name": "PRODUCTO COORSERPARK"
+    },
+    {
+      "name": "CONCEPTOS NO INHERENTES"
+    },
+    {
+      "name": "INF. GENERAL DEL PROCESO"
+    },
+    {
+      "name": "INF. OTRAS L\u00cdNEAS DE ATENCI\u00d3N"
+    },
+    {
+      "name": "INF. OTRAS L\u00cdNEAS DE ATENCI\u00d3N"
+    },
+    {
+      "name": "TR\u00c1MITE TRASLADO CABINA"
+    },
+    {
+      "name": "SUBSIDIO DISTRITAL DE VIVIENDA EN ESPECIE SDVE"
+    },
+    {
+      "name": "EDUCACI\u00d3N FINANCIERA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DOC. PARA EJERCER ENAJENACI\u00d3N INMUEB. DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "REGISTRO DE ENAJENADOR DE INMUEBLES DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "SOLICITUD CANCELACI\u00d3N REG. ENAJENADOR INMUEB. DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "ESQUEMA MESA DE SOLUCIONES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SOLICITUD DE MATR\u00cdCULA DE ARRENDADOR"
+    },
+    {
+      "name": "SOLICITUD DE CANCELACI\u00d3N DE LA MATR\u00cdCULA DE ARRENDADOR"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PERMISO PARA CAPTACI\u00d3N DE RECURSOS"
+    },
+    {
+      "name": "PERMISO DE ESCRITURACI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "LEGALIZACI\u00d3N URBAN\u00cdSTICA DE ASENTAMIENTOS HUMANOS"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "SUBSIDIO DISTRITAL DE VIVIENDA EN ESPECIE SDVE"
+    },
+    {
+      "name": "EDUCACI\u00d3N FINANCIERA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DOC. PARA EJERCER ENAJENACI\u00d3N INMUEB. DESTINADOS A VIVIENDA"
+    },
+    {
+      "name": "PODA DE \u00c1RBOLES EN ESPACIO P\u00daBLICO"
+    },
+    {
+      "name": "RECOLECCI\u00d3N DE RESIDUOS S\u00d3LIDOS"
+    },
+    {
+      "name": "RECOLECCI\u00d3N DE COLCHONES, ANIMALES MUERTOS Y MUEBLES EN DESUSO"
+    },
+    {
+      "name": "SOLICITUD DE TARIFA PREDIO DESOCUPADO"
+    },
+    {
+      "name": "SOLICITUD PARA ACCEDER A LA OPCI\u00d3N TARIFARIA DE MULTIUSUARIOS"
+    },
+    {
+      "name": "RECLAMO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "COPIA DE LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "COBRO COACTIVO"
+    },
+    {
+      "name": "FINANCIACIONES"
+    },
+    {
+      "name": "BIENES RAICES"
+    },
+    {
+      "name": "QUEJA - DENUNCIAS EAB"
+    },
+    {
+      "name": "INFORMATIVOS EAB"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "ACCEDER AL SERVICIO B\u00c1SICO DE ACUEDUCTO Y ALCANTARILLADO"
+    },
+    {
+      "name": "INSTALAR O CAMBIAR TAPA Y\/O CAJILLA DEL MEDIDOR"
+    },
+    {
+      "name": "CAMBIAR CLASE DE USO DEL INMUEBLE"
+    },
+    {
+      "name": "CAMBIAR LA DIRECCI\u00d3N EN LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "CAMBIAR ESTRATO EN LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "CAMBIAR NOMBRE DEL SUSCRIPTOR DE LA FACTURA"
+    },
+    {
+      "name": "CAMBIAR TARIFAS DE HOGARES COMUNITARIOS"
+    },
+    {
+      "name": "DA\u00d1OS OPERATIVOS - DA\u00d1OS COMERCIALES"
+    },
+    {
+      "name": "DENUNCIA DEL CONTRATO DE ARRENDAMIENTO"
+    },
+    {
+      "name": "DIRECCI\u00d3N DE CORRESPONDENCIA"
+    },
+    {
+      "name": "INDEPENDIZAR EL SERVICIO DE ACUEDUCTO  ( HASTA TRES ACOMETIDAS )"
+    },
+    {
+      "name": "RECLAMOS POR FACTURACI\u00d3N"
+    },
+    {
+      "name": "RECONEXI\u00d3N DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "REINSTALACI\u00d3N DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "REPOSICI\u00d3N DE MEDIDOR POR HURTO"
+    },
+    {
+      "name": "REUBICAR CAJILLA DEL MEDIDOR"
+    },
+    {
+      "name": "SUSPENSI\u00d3N TEMPORAL DEL SERVICIO DE ACUEDUCTO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "INDEPENDIZAR EL SERVICIO DE ACUEDUCTO (M\u00c1S DE TRES ACOMETIDAS)"
+    },
+    {
+      "name": "INSTALACI\u00d3N TEMPORAL DEL SERVICIO P\u00daBLICO"
+    },
+    {
+      "name": "DISPONIBILIDAD DE SERVICIOS P\u00daBLICOS"
+    },
+    {
+      "name": "CERTIFICACI\u00d3N DE REDES Y SUBSIDIO DE VIVIENDA"
+    },
+    {
+      "name": "REVISI\u00d3N DE PROYECTOS DE REDES EXTERNAS URBANIZADOR"
+    },
+    {
+      "name": "COPIA DE LA FACTURA DEL SERVICIO"
+    },
+    {
+      "name": "COBRO COACTIVO"
+    },
+    {
+      "name": "FINANCIACIONES"
+    },
+    {
+      "name": "BIENES RAICES"
+    },
+    {
+      "name": "QUEJA - DENUNCIAS EAB"
+    },
+    {
+      "name": "INFORMATIVOS EAB"
+    },
+    {
+      "name": "PODA DE \u00c1RBOLES EN ESPACIO P\u00daBLICO"
+    },
+    {
+      "name": "RECOLECCI\u00d3N DE RESIDUOS S\u00d3LIDOS"
+    },
+    {
+      "name": "RECOLECCI\u00d3N DE COLCHONES, ANIMALES MUERTOS Y MUEBLES EN DESUSO"
+    },
+    {
+      "name": "SOLICITUD DE TARIFA PREDIO DESOCUPADO"
+    },
+    {
+      "name": "SOLICITUD PARA ACCEDER A LA OPCI\u00d3N TARIFARIA DE MULTIUSUARIOS"
+    },
+    {
+      "name": "RECLAMO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DEVOLUCIONES PERSONA NATURAL"
+    },
+    {
+      "name": "RADICACI\u00d3N DEVOLUCI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "RADICACI\u00d3N DEVOLUCIONES PERSONA NATURAL"
+    },
+    {
+      "name": "RADICACI\u00d3N DEVOLUCI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "APLICACI\u00d3N O REVERSI\u00d3N DE PAGOS PERSONA NATURAL"
+    },
+    {
+      "name": "APLICACI\u00d3N O REVERSI\u00d3N DE PAGOS PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "APLICACI\u00d3N O REVERSI\u00d3N DE PAGOS PERSONA NATURAL"
+    },
+    {
+      "name": "APLICACI\u00d3N O REVERSI\u00d3N DE PAGOS PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NOTIFICACIONES"
+    },
+    {
+      "name": "PRESENTACI\u00d3N PERSONAL"
+    },
+    {
+      "name": "RADICACI\u00d3N RECURSOS DE RECONSIDERACI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "RADICACI\u00d3N RECURSOS DE RECONSIDERACI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NOTIFICACIONES"
+    },
+    {
+      "name": "PRESENTACI\u00d3N PERSONAL"
+    },
+    {
+      "name": "RADICACI\u00d3N RECURSOS DE RECONSIDERACI\u00d3N PERSONA NATURAL"
+    },
+    {
+      "name": "RADICACI\u00d3N RECURSOS DE RECONSIDERACI\u00d3N PERSONA JUR\u00cdDICA"
+    },
+    {
+      "name": "DUPLICADOS DE CUENTAS DE COBRO"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "DESACATO"
+    },
+    {
+      "name": "IMPUGNACI\u00d3N"
+    },
+    {
+      "name": "ASESOR\u00cdAS"
+    },
+    {
+      "name": "PETICIONES, QUEJAS Y RECLAMOS"
+    },
+    {
+      "name": "CORRECCIONES O ACTUALIZACIONES"
+    },
+    {
+      "name": "DESVINCULACI\u00d3N"
+    },
+    {
+      "name": "DUPLICIDADES"
+    },
+    {
+      "name": "INCLUSI\u00d3N DE PERSONAS"
+    },
+    {
+      "name": "INFORMACI\u00d3N DE PUNTAJE"
+    },
+    {
+      "name": "SOLICITUD DE ENCUESTA"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "CORRECCIONES O ACTUALIZACIONES"
+    },
+    {
+      "name": "DESVINCULACI\u00d3N"
+    },
+    {
+      "name": "DUPLICIDADES"
+    },
+    {
+      "name": "PLANOS DE DECRETOS Y RESOLUCIONES"
+    },
+    {
+      "name": "PLANOS DE UPZ"
+    },
+    {
+      "name": "PLANOS TOPOGR\u00c0FICOS"
+    },
+    {
+      "name": "PLANOS URBAN\u00cdSTICOS"
+    },
+    {
+      "name": "PLANCHAS DE RESERVA MILITAR"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "PUBLICACIONES OFICIALES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPEDICI\u00d3N DE CERTIFICADOS DE TRADICI\u00d3N Y LIBERTAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "EXPEDICI\u00d3N DE CERTIFICADOS DE TRADICI\u00d3N Y LIBERTAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "NOMINA"
+    },
+    {
+      "name": "RECONOCIMIENTO"
+    },
+    {
+      "name": "TRAMITES ISS"
+    },
+    {
+      "name": "HISTORIA LABORAL"
+    },
+    {
+      "name": "SIN CLASIFICACION SC"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AUMENTO - DISMINUCI\u00d3N PLAZO CARTERA AL D\u00cdA"
+    },
+    {
+      "name": "CERTIFICACIONES\/PAZ Y SALVO CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO NO TITULAR DE CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA  > 90 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 1 - 30 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 31 - 60 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 31 -89 D\u00cdAS"
+    },
+    {
+      "name": "COMPROBANTE PAGO CREDITO MORA 61 - 90 D\u00cdAS"
+    },
+    {
+      "name": "CONSULTAS CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COPIA DE COMUNICACI\u00d3N CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS CR\u00c9DITO F\u00c1CIL - NO COMPROBANTE DE PAGO"
+    },
+    {
+      "name": "RADICACIONES CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "RECLAMOS CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "REFINANCIACI\u00d3N Y REDIFERIDOS"
+    },
+    {
+      "name": "AJUSTES"
+    },
+    {
+      "name": "CANCELACION DE CUENTA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO PERIODO ACTUAL ENERG\u00cdA"
+    },
+    {
+      "name": "COMUNICACIONES ENERG\u00cdA"
+    },
+    {
+      "name": "CONSULTAS ENERG\u00cdA"
+    },
+    {
+      "name": "CONSUMO EN KW"
+    },
+    {
+      "name": "CONVENIO DE PAGO"
+    },
+    {
+      "name": "COPIA COMUNICACI\u00d3N ENERG\u00cdA"
+    },
+    {
+      "name": "DISPONIBILIDAD"
+    },
+    {
+      "name": "DUPLICADO"
+    },
+    {
+      "name": "ENTREGA DE RESPUESTA"
+    },
+    {
+      "name": "FACTURA"
+    },
+    {
+      "name": "MEDIDOR"
+    },
+    {
+      "name": "MODIFICACIONES COMERCIALES"
+    },
+    {
+      "name": "NOTIFICACI\u00d3N PERSONAL"
+    },
+    {
+      "name": "NOTIFICACI\u00d3N POR AVISO"
+    },
+    {
+      "name": "NOTIFICACIONES"
+    },
+    {
+      "name": "OTROS ENERG\u00cdA"
+    },
+    {
+      "name": "PAGO ANTICIPADO ENERG\u00cdA"
+    },
+    {
+      "name": "PAGOS"
+    },
+    {
+      "name": "RADICACI\u00d3N ENERG\u00cdA"
+    },
+    {
+      "name": "RECLAMOS ENERG\u00cdA"
+    },
+    {
+      "name": "REQUERIMIENTOS ENERG\u00cdA"
+    },
+    {
+      "name": "RESTRICCI\u00d3N"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO SEGUROS"
+    },
+    {
+      "name": "CONSULTAS SEGUROS"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS SEGUROS"
+    },
+    {
+      "name": "RADICACI\u00d3N SEGUROS"
+    },
+    {
+      "name": "RECLAMOS SEGUROS"
+    },
+    {
+      "name": "REQUERIMIENTOS SEGUROS"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO PUBLICACIONES"
+    },
+    {
+      "name": "CONSULTAS E INFORMACI\u00d2N PUBLICACIONES"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS PUBLICACIONES"
+    },
+    {
+      "name": "RADICACI\u00d3N PUBLICACIONES"
+    },
+    {
+      "name": "RECLAMOS PUBLICACIONES"
+    },
+    {
+      "name": "RECLAMOS VARIOS SEGUROS Y PUBLICACIONES"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "DUPLICADO"
+    },
+    {
+      "name": "PAGO ANTICIPADO CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO ENERG\u00cdA P. ACTUAL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO SEGUROS AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO OTROS NEGOCIOS AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO CR\u00c9DITO NO TITULAR"
+    },
+    {
+      "name": "PLAZO PARA PAGO (ATS AL D\u00cdA)"
+    },
+    {
+      "name": "TURNO OTRA ENTIDAD"
+    },
+    {
+      "name": "AJUSTES"
+    },
+    {
+      "name": "CANCELACION DE CUENTA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO PERIODO ACTUAL ENERG\u00cdA"
+    },
+    {
+      "name": "COMUNICACIONES ENERG\u00cdA"
+    },
+    {
+      "name": "CONSULTAS ENERG\u00cdA"
+    },
+    {
+      "name": "CONSUMO EN KW"
+    },
+    {
+      "name": "CONVENIO DE PAGO"
+    },
+    {
+      "name": "NOTIFICACIONES"
+    },
+    {
+      "name": "OTROS ENERG\u00cdA"
+    },
+    {
+      "name": "PAGO ANTICIPADO ENERG\u00cdA"
+    },
+    {
+      "name": "PAGOS"
+    },
+    {
+      "name": "RADICACI\u00d3N ENERG\u00cdA"
+    },
+    {
+      "name": "RECLAMOS ENERG\u00cdA"
+    },
+    {
+      "name": "REQUERIMIENTOS ENERG\u00cdA"
+    },
+    {
+      "name": "RESTRICCI\u00d3N"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO SEGUROS"
+    },
+    {
+      "name": "CONSULTAS SEGUROS"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS SEGUROS"
+    },
+    {
+      "name": "RADICACI\u00d3N SEGUROS"
+    },
+    {
+      "name": "RECLAMOS SEGUROS"
+    },
+    {
+      "name": "REQUERIMIENTOS SEGUROS"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO PUBLICACIONES"
+    },
+    {
+      "name": "CONSULTAS E INFORMACI\u00d2N PUBLICACIONES"
+    },
+    {
+      "name": "OTROS REQUERIMIENTOS PUBLICACIONES"
+    },
+    {
+      "name": "RADICACI\u00d3N PUBLICACIONES"
+    },
+    {
+      "name": "RECLAMOS PUBLICACIONES"
+    },
+    {
+      "name": "RECLAMOS VARIOS SEGUROS Y PUBLICACIONES"
+    },
+    {
+      "name": "PAGO ANTICIPADO CR\u00c9DITO F\u00c1CIL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO ENERG\u00cdA P. ACTUAL"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO SEGUROS AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO OTROS NEGOCIOS AL D\u00cdA"
+    },
+    {
+      "name": "COMPROBANTE DE PAGO CR\u00c9DITO NO TITULAR"
+    },
+    {
+      "name": "PLAZO PARA PAGO (ATS AL D\u00cdA)"
+    },
+    {
+      "name": "PRESTACIONES A QUE TIENE DERECHO"
+    },
+    {
+      "name": "QUE ES EL FONDO DE SOLIDARIDAD PENSIONAL Y QUE SUBSIDIOS OTORGA"
+    },
+    {
+      "name": "REAJUSTE DE LA PENSION"
+    }
+  ],
+  "entities": [
+    {
+      "long_name": "GAS NATURAL FENOSA",
+      "short_name": "GAS NATURAL"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE HACIENDA",
+      "short_name": "HACIENDA"
+    },
+    {
+      "long_name": "EMPRESA DE ACUEDUCTO, ALCANTARILLADO Y ASEO DE BOGOT\u00c1 EAB",
+      "short_name": "ACUEDUCTO Y ASEO"
+    },
+    {
+      "long_name": "DIRECCI\u00d3N DE IMPUESTOS Y ADUANAS NACIONALES",
+      "short_name": "DIAN"
+    },
+    {
+      "long_name": "CODENSA S.A. ESP",
+      "short_name": "CODENSA"
+    },
+    {
+      "long_name": "INSTITUTO DE DESARROLLO URBANO IDU",
+      "short_name": "IDU"
+    },
+    {
+      "long_name": "PERSONER\u00cdA DE BOGOT\u00c1",
+      "short_name": "PERSONER\u00cdA"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE PLANEACI\u00d3N",
+      "short_name": "PLANEACI\u00d3N"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE SALUD",
+      "short_name": "SALUD"
+    },
+    {
+      "long_name": "SUPERINTENDENCIA DE NOTARIADO Y REGISTRO",
+      "short_name": "SUPERNOTARIADO"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE AMBIENTE",
+      "short_name": "AMBIENTE"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE MOVILIDAD",
+      "short_name": "MOVILIDAD"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE EDUCACI\u00d3N",
+      "short_name": "EDUCACI\u00d3N"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE DESARROLLO ECON\u00d3MICO",
+      "short_name": "DESARROLLO ECON\u00d3MICO"
+    },
+    {
+      "long_name": "SECRETAR\u00cdA DISTRITAL DE H\u00c1BITAT",
+      "short_name": "H\u00c1BITAT"
+    },
+    {
+      "long_name": "RECAUDO BOGOTA S.A.S",
+      "short_name": "RB - TULLAVE"
+    },
+    {
+      "long_name": "DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO",
+      "short_name": "ESPACIO P\u00daBLICO"
+    },
+    {
+      "long_name": "EMPRESA DE TELECOMUNICACIONES DE BOGOT\u00c1 S.A. - E.S.P",
+      "short_name": "ETB"
+    },
+    {
+      "long_name": "INSTITUTO DISTRITAL DE RECREACI\u00d3N Y EL DEPORTE",
+      "short_name": "IDRD"
+    },
+    {
+      "long_name": "DIRECCI\u00d3N DISTRITAL DE SERVICIO AL CIUDADANO",
+      "short_name": "SECRETARIA GENERAL"
+    },
+    {
+      "long_name": "FONDO NACIONAL DEL AHORRO - FNA",
+      "short_name": "FONDO NACIONAL"
+    },
+    {
+      "long_name": "INSTITUTO DE PARTICIPACI\u00d3N Y ACCI\u00d3N COMUNAL",
+      "short_name": "ACCI\u00d3N COMUNAL"
+    },
+    {
+      "long_name": "CAPRECOM EPS",
+      "short_name": "CAPRECOM EPS"
+    },
+    {
+      "long_name": "UNIVERSIDAD DISTRITAL FRANCISCO JOS\u00c9 DE CALDAS",
+      "short_name": "UNIVERSIDAD DISTRITAL"
+    },
+    {
+      "long_name": "SAT",
+      "short_name": "ADMIN"
+    },
+    {
+      "long_name": "UNIDAD ADMINISTRATIVA ESPECIAL DE CATASTRO BOGOT\u00c1",
+      "short_name": "CATASTRO"
+    },
+    {
+      "long_name": "SECRETARIA DISTRITAL DE GOBIERNO",
+      "short_name": "GOBIERNO"
+    },
+    {
+      "long_name": "UNIDAD ADMINISTRATIVA CUERPO OFICIAL DE BOMBEROS DE BOGOT\u00c1",
+      "short_name": "BOMBEROS"
+    },
+    {
+      "long_name": "ASOPAGOS S.A",
+      "short_name": "ASOPAGOS"
+    },
+    {
+      "long_name": "MINISTERIO DE TRABAJO",
+      "short_name": "MIN. TRABAJO"
+    },
+    {
+      "long_name": "POSITIVA COMPA\u00d1\u00cdA DE SEGUROS S.A.",
+      "short_name": "POSITIVA"
+    },
+    {
+      "long_name": "ADMINISTRADORA COLOMBIANA DE PENSIONES",
+      "short_name": "COLPENSIONES"
+    },
+    {
+      "long_name": "CAMARA DE COMERCIO DE BOGOT\u00c1",
+      "short_name": "CAMARA DE COMERCIO"
+    },
+    {
+      "long_name": "CONSEJO SUPERIOR DE LA JUDICATURA",
+      "short_name": "C. JUDICATURA"
+    },
+    {
+      "long_name": "TELEFONICA MOVISTAR",
+      "short_name": "MOVISTAR"
+    },
+    {
+      "long_name": "CAPITAL SALUD EPS-S",
+      "short_name": "CAPITAL SALUD"
+    }
+  ],
+  "servicePoints": [
+    {
+      "name": "CADE YOMASA"
+    },
+    {
+      "name": "ALCALDIA BOGOTA"
+    },
+    {
+      "name": "CADE FONTIB\u00d3N"
+    },
+    {
+      "name": "CADE SANTA HELENITA"
+    },
+    {
+      "name": "SUPERCADE CALLE 13"
+    },
+    {
+      "name": "CADE TUNAL"
+    },
+    {
+      "name": "CADE VICTORIA"
+    },
+    {
+      "name": "CADE CANDELARIA"
+    },
+    {
+      "name": "CADE SANTA LUCIA"
+    },
+    {
+      "name": "CADE KENNEDY"
+    },
+    {
+      "name": "CADE CHICO"
+    },
+    {
+      "name": "CADE GAITANA"
+    },
+    {
+      "name": "CADE MUZU"
+    },
+    {
+      "name": "CADE SUBA"
+    },
+    {
+      "name": "CADE SERVITA"
+    },
+    {
+      "name": "CADE PLAZA AMERICAS"
+    },
+    {
+      "name": "SUPERCADE AMERICAS"
+    },
+    {
+      "name": "CADE BOSA"
+    },
+    {
+      "name": "CADE LUCEROS"
+    },
+    {
+      "name": "TOBERIN"
+    },
+    {
+      "name": "SUPERCADE SUBA"
+    },
+    {
+      "name": "SUPERCADE BOSA"
+    },
+    {
+      "name": "SCADE 20 DE JULIO"
+    },
+    {
+      "name": "SUPERCADE MOVILIDAD"
+    },
+    {
+      "name": "SUPERCADE CAD"
+    }
+  ]
+}
