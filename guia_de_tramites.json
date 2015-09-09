@@ -5361,146 +5361,182 @@
   ],
   "entities": [
     {
+      "id": "gas",
       "long_name": "GAS NATURAL FENOSA",
       "short_name": "GAS NATURAL"
     },
     {
+      "id": "hacienda",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE HACIENDA",
       "short_name": "HACIENDA"
     },
     {
+      "id": "acueducto",
       "long_name": "EMPRESA DE ACUEDUCTO, ALCANTARILLADO Y ASEO DE BOGOT\u00c1 EAB",
       "short_name": "ACUEDUCTO Y ASEO"
     },
     {
+      "id": "dian",
       "long_name": "DIRECCI\u00d3N DE IMPUESTOS Y ADUANAS NACIONALES",
       "short_name": "DIAN"
     },
     {
+      "id": "codensa",
       "long_name": "CODENSA S.A. ESP",
       "short_name": "CODENSA"
     },
     {
+      "id": "idu",
       "long_name": "INSTITUTO DE DESARROLLO URBANO IDU",
       "short_name": "IDU"
     },
     {
+      "id": "personeria",
       "long_name": "PERSONER\u00cdA DE BOGOT\u00c1",
       "short_name": "PERSONER\u00cdA"
     },
     {
+      "id": "planeacion",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE PLANEACI\u00d3N",
       "short_name": "PLANEACI\u00d3N"
     },
     {
+      "id": "salud",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE SALUD",
       "short_name": "SALUD"
     },
     {
+      "id": "supernotariado",
       "long_name": "SUPERINTENDENCIA DE NOTARIADO Y REGISTRO",
       "short_name": "SUPERNOTARIADO"
     },
     {
+      "id": "ambiente",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE AMBIENTE",
       "short_name": "AMBIENTE"
     },
     {
+      "id": "movilidad",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE MOVILIDAD",
       "short_name": "MOVILIDAD"
     },
     {
+      "id": "educacion",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE EDUCACI\u00d3N",
       "short_name": "EDUCACI\u00d3N"
     },
     {
+      "id": "desarrollo",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE DESARROLLO ECON\u00d3MICO",
       "short_name": "DESARROLLO ECON\u00d3MICO"
     },
     {
+      "id": "habitat",
       "long_name": "SECRETAR\u00cdA DISTRITAL DE H\u00c1BITAT",
       "short_name": "H\u00c1BITAT"
     },
     {
+      "id": "tullave",
       "long_name": "RECAUDO BOGOTA S.A.S",
       "short_name": "RB - TULLAVE"
     },
     {
+      "id": "espacio",
       "long_name": "DEPARTAMENTO ADMINISTRATIVO DE LA DEFENSORIA DEL ESPACIO PUBLICO",
       "short_name": "ESPACIO P\u00daBLICO"
     },
     {
+      "id": "etb",
       "long_name": "EMPRESA DE TELECOMUNICACIONES DE BOGOT\u00c1 S.A. - E.S.P",
       "short_name": "ETB"
     },
     {
+      "id": "idrd",
       "long_name": "INSTITUTO DISTRITAL DE RECREACI\u00d3N Y EL DEPORTE",
       "short_name": "IDRD"
     },
     {
+      "id": "secretaria",
       "long_name": "DIRECCI\u00d3N DISTRITAL DE SERVICIO AL CIUDADANO",
       "short_name": "SECRETARIA GENERAL"
     },
     {
+      "id": "fondo",
       "long_name": "FONDO NACIONAL DEL AHORRO - FNA",
       "short_name": "FONDO NACIONAL"
     },
     {
+      "id": "comunal",
       "long_name": "INSTITUTO DE PARTICIPACI\u00d3N Y ACCI\u00d3N COMUNAL",
       "short_name": "ACCI\u00d3N COMUNAL"
     },
     {
+      "id": "caprecom",
       "long_name": "CAPRECOM EPS",
       "short_name": "CAPRECOM EPS"
     },
     {
+      "id": "universidad",
       "long_name": "UNIVERSIDAD DISTRITAL FRANCISCO JOS\u00c9 DE CALDAS",
       "short_name": "UNIVERSIDAD DISTRITAL"
     },
     {
+      "id": "admin",
       "long_name": "SAT",
       "short_name": "ADMIN"
     },
     {
+      "id": "catastro",
       "long_name": "UNIDAD ADMINISTRATIVA ESPECIAL DE CATASTRO BOGOT\u00c1",
       "short_name": "CATASTRO"
     },
     {
+      "id": "gobierno",
       "long_name": "SECRETARIA DISTRITAL DE GOBIERNO",
       "short_name": "GOBIERNO"
     },
     {
+      "id": "bomberos",
       "long_name": "UNIDAD ADMINISTRATIVA CUERPO OFICIAL DE BOMBEROS DE BOGOT\u00c1",
       "short_name": "BOMBEROS"
     },
     {
+      "id": "asopagos",
       "long_name": "ASOPAGOS S.A",
       "short_name": "ASOPAGOS"
     },
     {
+      "id": "trabajo",
       "long_name": "MINISTERIO DE TRABAJO",
       "short_name": "MIN. TRABAJO"
     },
     {
+      "id": "positiva",
       "long_name": "POSITIVA COMPA\u00d1\u00cdA DE SEGUROS S.A.",
       "short_name": "POSITIVA"
     },
     {
+      "id": "colpensiones",
       "long_name": "ADMINISTRADORA COLOMBIANA DE PENSIONES",
       "short_name": "COLPENSIONES"
     },
     {
+      "id": "camara",
       "long_name": "CAMARA DE COMERCIO DE BOGOT\u00c1",
       "short_name": "CAMARA DE COMERCIO"
     },
     {
+      "id": "judicatura",
       "long_name": "CONSEJO SUPERIOR DE LA JUDICATURA",
       "short_name": "C. JUDICATURA"
     },
     {
+      "id": "movistar",
       "long_name": "TELEFONICA MOVISTAR",
       "short_name": "MOVISTAR"
     },
     {
+      "id": "capital",
       "long_name": "CAPITAL SALUD EPS-S",
       "short_name": "CAPITAL SALUD"
     }
